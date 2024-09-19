@@ -1,0 +1,50 @@
+
+4.3 Control del licor de lavado
+
+A los lavadores DD de la planta de blanqueo llegan dos aguas de lavado diferentes. Un agua de lavado «más limpia» que se alimenta a la parte posterior del lavador y un agua de lavado «más sucia» que va hacia la parte delantera del lavador.
+
+El control del caudal de agua de lavado está en el modo REMOTO basándose en una dosis de licor de lavado indicada por el operador (en m3/tSa) y la producción de blanqueo medida 153-UI-0001 (en tSa/d). 
+
+El operador indicará las dosis de agua de lavado específicas para cada bucle de control de agua de lavado en los lavadores DD.
+
+4.4 Lavadores DD
+
+Para mantener la consistencia de salida de los lavadores DD por encima del 10%, es importante mantener la presión de alimentación a cierto nivel, en función de la especie de madera, la temperatura y la consistencia de alimentación. Una presión de alimentación excesiva aumenta la presión del agua de lavado y el torque. También las fugas de agua de lavado desde la zona de lavado hacia el tornillo de descarga aumentan y la eliminación de la torta del tambor es más difícil. Una presión de alimentación insuficiente significa que las cavidades del tambor no están llenas de pulpa, lo que causa fugas de agua de lavado entre las etapas de lavado y hacia el tornillo de descarga.
+
+Si las presiones de agua de lavado aumentan hasta los 0,9 bar, regulará las válvulas de agua de lavado para reducir la presión.
+
+La presión del aire de descarga de tortas del lavador DD está normalmente entre los 3-5 bar; no debe usarse una presión superior con el fin de evitar daños mecánicos.
+
+A veces, los sellos finales del lavador DD pueden necesitar un lavado si las impurezas han taponado la válvula de salida del agua de sellado, impidiendo así un flujo de salida. Este lavado se realiza abriendo lentamente la válvula manual del lado de salida de la tubería de agua de sellado. Sólo se abre una válvula cada vez mientras se monitorea que la presión en la salida del sellado permanezca a un nivel normal. Un lavado de unos 20 segundos basta para eliminar las partículas mayores de las juntas. 
+
+En función de la temperatura en el lavador, la presión de alimentación y la presión del agua de lavado, la separación entre el tambor y una barra de sellado puede cambiar. La separación puede aumentar en particular si el lavador se ha calentado o si la presión del líquido de lavado ha aumentado. Por esta razón, a veces es necesario ajustar específicamente la barra de sellado situada entre la zona de lavado y el tornillo de descarga, levemente hacia el tambor. 
+
+Una separación demasiado grande entre el tambor y la barra de sellado provoca una fuga de líquido de lavado hacia el tornillo de descarga y esto reduce la consistencia de la descarga. Por otro lado, el contacto entre el tambor y la barra de sellado provocará un rápido desgaste de la barra de sellado además de problemas de operación a causa del torque elevado del tambor.
+
+Durante las inspecciones de campo (una vez por turno), el operador debe comprobar que no exista un temblor regular en el lavador DD y si los ejes de las barras de sellado presentan temblores. Este temblor puede detectarse tocando los ejes con la mano o con un fragmento de tubo. El temblor es una indicación del contacto entre el tambor y la barra de sellado. Si se detecta cualquier temblor, es necesario ajustar la barra para alejarla del tambor hasta que desaparezca el contacto. También un valor de medición de torque elevado en el lavador DD puede deberse al contacto entre una barra de sellado y el tambor.
+
+Las fugas de líquido de lavado hacia el tornillo de descarga también pueden ser causadas por una mala formación de la torta, no únicamente por una gran separación de la barra de sellado. En este caso, ajustar la barra de sellado no permite resolver el problema.  
+
+Además, la barra de sellado entre la caja de alimentación y el tornillo de descarga debe tener una separación bastante pequeña para evitar fugas de pulpa de alimentación hacia el transportador de descarga. Estas fugas pueden verse examinando el espacio del transportador de descarga a través de las ventanas de inspección.
+
+Los manuales de operación de los lavadores DD contienen instrucciones e información más detalladas acerca de la construcción y los ajustes de las barras de sellado.
+
+4.5 Diluciones
+
+4.5.1 Tanques
+
+Torre de almacenamiento de pulpa sin blanquear
+La carga del raspador de descarga de la torre de almacenamiento de pulpa sin blanquear, 153-EIC-0006, controla el caudal de dilución hacia el fondo de la torre de almacenamiento de pulpa sin blanquear. Cuando la carga aumenta, la válvula 153-EV-0006 se abre para aumentar la dilución.
+
+La dilución del tubo de soporte del fondo de la torre de almacenamiento de pulpa sin blanquear está controlada por el bucle de consistencia 153-QIC-0022. Si la consistencia aumenta sobre el valor de ajuste, la válvula 153-QV-0022 se abre para agregar dilución al tubo de soporte.
+
+Tubos de soporte
+Los tubos de soporte situados a continuación de los lavadores DD cuentan con conexiones de dilución. 
+Las conexiones de dilución se controlan por la presión (es decir, la consistencia) de la siguiente línea de alimentación de pulpa a la torre.
+
+Tubos de descenso
+Los tubos de descenso grandes de las torres cuentan con bucles que proporcionan dilución a la superficie interior del respectivo tubo grande. 153-HI-0052 para la etapa Da, 153-HI-0197 para la etapa EP, 153-HI-0295 para la etapa D1 y 153-HI-0389 para la etapa P.
+
+4.5.2 Tonillos de los lavadores DD
+
+La consistencia de salida desde los lavadores DD es de un 12-14%. La pulpa se diluye hasta conseguir una consistencia aproximada del 12% en los tornillos de los lavadores DD de blanqueo. La dilución al tornillo del lavador DD de la etapa Da, 153-23-114, es controlada por el operador con el bucle 153-HI-0132. La dilución al tornillo del lavador DD de la etapa EP, 153-23-214, es controlada por el operador con el bucle 153-HI-0232. La dilución al tornillo del lavador DD de la etapa D1, 153-23-314, es controlada por el operador con el bucle 153-HI-0332. La dilución al tornillo del lavador DD de la etapa P, 153-23-414, es controlada por el operador con el bucle 153-HI-0432.

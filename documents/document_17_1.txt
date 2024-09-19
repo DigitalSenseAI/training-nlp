@@ -1,0 +1,86 @@
+
+5. PARADAS
+
+5.1 Generalidades
+
+Cuando resulta necesario detener la planta de blanqueo, puede hacerse para un periodo breve o prolongado. La cantidad de medidas preparatorias, el número de máquinas a detener y el alcance de las actividades especiales de inspección y mantenimiento determinan la duración de la parada. 
+
+La parada de la planta de blanqueo se hace en el orden inverso a la puesta en marcha.
+Antes de la parada, es necesario decidir qué cantidad de pulpa y filtrado debe dejarse en los tanques. Al tomar esta decisión, debe tomarse en cuenta la cantidad de trabajo a realizar durante la parada y el momento previsto de la siguiente puesta en marcha. Si no se recibieron instrucciones especiales para los tanques y las torres, el nivel de la torre de almacenamiento de pulpa sin blanquear se reduce hasta aproximadamente el 30-50%, las torres y los reactores se dejan llenos y los niveles de los tanques de filtrado se dejan a aproximadamente el 60%. Si se prevé drenar uno de los reactores o torres, las torres de almacenamiento de pulpa blanqueada deben tener volumen libre disponible y también debe existir licor de desplazamiento disponible.
+
+Los procedimientos para una parada breve pueden presentarse de dos formas: 
+Los lavadores DD y las torres se dejan llenos de pulpa y existe un nivel normal en los tanques de filtrado.
+Las torres se dejan llenas de pulpa y existe un nivel normal en los tanques de filtrado. Los lavadores DD y las tuberías de pulpa son diluidos. Se detiene toda la maquinaria.
+
+En los siguientes capítulos se presentan también los procedimientos para una parada prolongada.
+
+5.2 Paradas breves
+
+Durante una parada breve, los reactores y torres se dejan llenos de pasta y los tanques de filtrado contienen líquido. El lavador de gases de la planta de blanqueo y las bombas de transferencia de productos químicos pueden dejarse en funcionamiento o detenerse. La parada de la planta de blanqueo se hace en el orden inverso a la puesta en marcha.
+
+La planta de blanqueo puede permanecer parada desde un par de horas hasta varios días. Una parada que dura varias horas requiere el lavado y la dilución de las tuberías de pulpa, los lavadores DD y los equipos a detener.
+
+Etapa Da
+Diluya la sección inferior de la torre de almacenamiento de pulpa sin blanquear. 
+Cambie el bucle 153-EIC-0006 al modo MAN y abra la válvula al 50-100%. Diluya la parte inferior de la torre de almacenamiento de pulpa sin blanquear durante un tiempo breve, aproximadamente 3–5 minutos.
+Cambie el bucle 153-QIC-0022 al modo MAN y abra la válvula al 50-100%. Diluya el tubo de soporte inferior de la torre de almacenamiento de pulpa sin blanquear durante un tiempo breve, aproximadamente 3–5 minutos, con el fin de diluir el tubo de alimentación de pulpa hacia la torre de etapa Da.
+Cambie el bucle 153-HS-0013, permiso de productos químicos de la etapa Da, a la posición «OFF».
+La bomba booster de ácido sulfúrico 153-26-007 se detiene y la válvula 153-HS-0017 se cierra.
+Las válvulas de dióxido de cloro 153-HS-0027 y 153-FIC-0026 se cierran.
+La válvula de calentador de dióxido de cloro 153-HS-0031 se cierra y 153-HS-0032 se abre para enfriar el calentador; tras el enfriamiento, todas las válvulas y 153-TIC-0023 se cierran.
+La válvula de control de bisulfito de sodio 153-FIC-0015 se cierra.
+Detenga 153-26-101, bomba MC de alimentación a etapa Da.
+El flujo de pulpa 153-FIC-0005 hacia la torre de etapa Da se cierra.
+La válvula del mezclador de productos químicos de etapa Da, 153-HS-0025, se cierra. 
+153-HS-0007, agua de sellado hacia la bomba MC de alimentación a la etapa Da, se cierra tras un retardo de 5 minutos.
+Detenga el mezclador de productos químicos de etapa Da, 153-20-103.
+
+El raspador superior de la torre de etapa Da, 153-20-105, se mantiene siempre en funcionamiento durante las paradas breves.
+Diluya el tubo de descenso de la torre de etapa Da y el tubo de alimentación hacia el lavador DD de la etapa Da.
+Cambie 153-HI-0052, dilución al tubo de descenso de la torre de etapa Da, y 153-HI-0053, dilución a la alimentación del lavador DD de la etapa Da, el modo MAN y abra la válvula al 50-100%. Diluya el tubo de descenso y el tubo de alimentación durante algunos minutos.
+Cuando la presión de alimentación 153-PIC-0124 de la caja de alimentación del lavador DD de la etapa Da se reduzca por debajo de 0,1 bar, cierre las válvulas de dilución 153-HI-0052 y 153-HI-0053.
+
+Detenga la bomba de filtrado más sucio de la etapa Da, 153-26-119, y el filtro de fibra, 153-20-121 
+Las válvulas de control 153-FIC-0087, 153-PIC-0081 y 153-FIC-0082 se cierran.
+
+Detenga el lavador DD de la etapa Da, 153-20-113.
+Las válvulas 153-HS-0101 y 153-HS-0102 se cierran.
+El agua de sellado hacia el lavador DD de la etapa Da, 153-HI-0130, se cierra después de un retardo de 60 min.
+El lavado giratorio del lavador DD de la etapa Da, 153-HS-0170, se cierra después de un retardo de 120 segundos.
+El aire de retirada de la torta del lavador DD de Da, 153-HS-0117, se cierra.
+Las válvulas de agua de lavado del lavador DD de la etapa Da, 153-FIC-0130 y 153-FIC-0137, se cierran.
+La válvula de hidróxido de sodio 153-FIC-0095 se cierra.
+La válvula dosificadora de talco 153-FIC-0096 se cierra.
+Detenga el tornillo del lavador DD de la etapa Da, 153-23-114; la válvula de lavado de la placa perforada 153-HS-0134 se cierra.
+La dilución del tornillo del lavador DD de la etapa Da, 153-HI-0132, se cierra.
+Detenga la bomba de filtrado más limpio de la etapa Da, 153-26-118.
+Las válvulas de secuencia de lavado del enfriador de efluentes ácidos 1, 153-HI-0070, 153-HI-0071, 153-HI-0072 y 153-HI-0073, y los controles de temperatura de efluentes 153-TIC-0075 y 153-TIC-0098 se cierran.
+Las válvulas de secuencia de lavado del enfriador de efluentes ácidos 2, 153-HI-0034, 153-HI-0035, 153-HI-0036 y 153-HI-0037, y el control de temperatura de efluentes 153-TIC-0039 se cierran.
+
+Etapa EP
+Diluya el tubo de soporte de alimentación de la etapa EP y el tubo de alimentación de pulpa hacia la torre de etapa EP.
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa EP, 153-PIC-0182 al modo MAN y abra la válvula al 50-100%. Diluya el tubo de soporte durante un tiempo breve, aproximadamente 3–5 minutos.
+Cambie el bucle 153-HS-0194, permiso de productos químicos de la etapa EP, a la posición «OFF».
+Las válvulas de peróxido de hidrógeno 153-HS-0190 y 153-FIC-0189 se cierran.
+Detenga 153-26-201, bomba MC de alimentación de etapa EP.
+El control de nivel 153-LIC-0181 y la válvula de cierre 153-HS-0184 se cierran.
+
+El raspador superior de la torre de etapa EP 153-20-205 se mantiene siempre en funcionamiento durante las paradas breves. 
+Diluya el tubo de descenso de la torre de etapa EP y el tubo de alimentación hacia el lavador DD de la etapa EP.
+Cambie 153-HI-0197, dilución al tubo de descenso de la torre de etapa EP, y 153-HI-0198, dilución a la alimentación del lavador DD de la etapa EP, el modo MAN y abra la válvula al 50-100%. Diluya el tubo de descenso y el tubo de alimentación durante algunos minutos.
+Cuando la presión de alimentación 153-PIC-0224 de la caja de alimentación del lavador DD de la etapa EP se reduzca por debajo de 0,1 bar, cierre las válvulas de dilución 153-HI-0197 y 153-HI-0198.
+
+Detenga la bomba de filtrado más limpio de etapa EP, 153-26-218; 153-HI-0257 se cierra.
+Detenga el lavador DD de la etapa EP, 153-20-213.
+Las válvulas 153-HS-0201 y 153-HS-0202 se cierran.
+El agua de sellado hacia el lavador DD de la etapa EP, 153-HI-0360, se cierra después de un retardo de 60 min.
+El lavado giratorio del lavador DD de la etapa EP, 153-HS-0265, se cierra después de un retardo de 120 segundos.
+El aire de retirada de la torta del lavador DD de EP, 153-HS-0217, se cierra.
+Las válvulas de agua de lavado del lavador DD de la etapa EP, 153-FIC-0230 y 153-FIC-0237, se cierran.
+Detenga el tornillo del lavador DD de la etapa EP, 153-23-214; la válvula de lavado de la placa perforada 153-HS-0234 se cierra.
+La dilución del tornillo del lavador DD de la etapa EP 153-HI-0232 se cierra.
+Detenga la bomba de lavado de tambor DD de DA y EP 153-26-116.
+
+Detenga la bomba de filtrado más sucio de etapa EP, 153-26-219.
+Las válvulas de secuencia de lavado del enfriador de efluentes alcalinos 1, 153-HI-0270, 153-HI-0271, 153-HI-0272 y 153-HI-0273, y los controles de temperatura de efluentes 153-TIC-0275 y 153-TIC-0605 se cierran.
+Las válvulas de secuencia de lavado del enfriador de efluentes alcalinos 2, 153-HI-0600, 153-HI-0601, 153-HI-0602 y 153-HI-0603, y el control de temperatura de efluentes 153-TIC-0604 se cierran.

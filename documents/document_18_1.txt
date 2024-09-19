@@ -1,0 +1,65 @@
+
+6. SEGURIDAD
+
+6.1 Seguridad general
+
+6.1.1 Productos químicos
+
+La seguridad personal debe tomarse en cuenta cuando se manejan los productos químicos.
+
+El producto químico utilizado en la cocción es el licor blanco. Además, en el proceso se forman monóxido de carbono y compuestos sulfurosos gaseosos y se liberan especialmente en el área del tanque de descarga. Ejemplos de estos compuestos son el sulfuro de hidrógeno, el metil mercaptano, el dimetil sulfuro y el dimetil disulfuro, que también se forman al agregar ácido al licor negro.
+
+Los productos químicos utilizados en el blanqueo con oxígeno son el licor blanco oxidado, el hidróxido de sodio y el oxígeno. Además de estas sustancias, en el proceso se forman monóxido de carbono y metanol, que se liberan especialmente en el área del tanque de descarga.
+
+Los productos químicos usados en la planta de oxidación de licor blanco son el licor blanco y el oxígeno. 
+Los productos químicos utilizados en el blanqueo son el dióxido de cloro, peróxido de hidrógeno, hidróxido de sodio, ácido sulfúrico, oxígeno, dióxido de azufre, bisulfito de sodio, talco, sulfato de magnesio, ácido clorhídrico, cloro gaseoso e hipoclorito. 
+
+Todo el personal debe estar familiarizado con las instrucciones de seguridad y relativas a los productos químicos en caso de accidentes. En especial, son muy importantes las siguientes partes de las instrucciones relativas a los productos químicos:
+Instrucciones de manejo de productos químicos
+Acciones en caso de fuga de productos químicos
+Acciones en caso de fuga de gases
+
+Tan pronto como se detecte una fuga:
+Es necesario informar a los operadores.
+Se debe definir la sustancia fugada.
+Es necesario garantizar que no haya ninguna persona en el área de la fuga y esta área debe ser clausurada.
+Es necesario detener los equipos de proceso y cerrar las válvulas de cierre si la fuga es dañina para las personas o para los equipos de proceso.
+La fuga debe ser notificada de la forma indicada en las instrucciones de seguridad.
+Se deben registrar los daños y las lesiones ocurridos.
+
+A continuación encontrará descripciones breves de estos productos químicos. Sin embargo, estas descripciones no eliminan la necesidad de leer también las instrucciones separadas correspondientes a cada producto.
+
+Licor blanco 
+El licor blanco, una mezcla de hidróxido de sodio y sulfato de sodio, se utiliza principalmente en la planta de cocción y en la etapa de oxígeno. El licor blanco se bombea con una concentración de 100–140 g/l de NaOH/l como AA NaOH hacia el área de la línea de fibra. Su temperatura de dosificación es de aproximadamente 90 °C.
+El licor blanco es un licor altamente corrosivo, oloroso y resbaladizo que puede provocar resbalones peligrosos si se vierte sobre el suelo.
+Las salpicaduras de esta solución provocan quemaduras en los ojos y la piel.  Lave de inmediato el área afectada con grandes cantidades de agua. Después del lavado, acuda a un médico.
+Los equipos de protección individual requeridos son una máscara facial o lentes, guantes protectores y un traje protector.
+Si se produjera un escape de gran cantidad de licor blanco a las aguas, se producirá un choque de pH alcalino, que producirá entre otros daños la muerte de los peces.
+
+Licor blanco oxidado 
+En el licor blanco oxidado, el sulfuro de sodio de licor blanco se oxida para dar lugar a sulfato de sodio. Se trata de una sustancia altamente cáustica, que tiene una concentración de hidróxido de sodio de 80-140 g NaOH/l. Su temperatura de dosificación es de 90–150 °C.
+El licor blanco oxidado es un licor altamente corrosivo, oloroso y resbaladizo que puede provocar resbalones peligrosos si se vierte sobre el suelo.
+Las salpicaduras de esta solución pueden provocar quemaduras en los ojos y la piel. Lave de inmediato el área afectada con grandes cantidades de agua. Después del lavado, acuda a un médico.
+Use una máscara facial o lentes, guantes protectores y un traje protector como equipos de protección individual.
+Si se produjera un escape de gran cantidad de licor blanco a las aguas, se producirá un choque de pH alcalino, que producirá entre otros daños la muerte de los peces. 
+
+Licor negro 
+El licor negro es la fase líquida tras la cocción de la pulpa y contiene madera disuelta y productos químicos de sodio provenientes del licor de cocción. Es una sustancia fuertemente alcalina y tiene una temperatura de 70–160 °C.
+El licor negro es un licor corrosivo, oloroso y resbaladizo que puede provocar resbalones peligrosos si se vierte sobre el suelo. Su capacidad de corrosión depende del contenido de álcalis; en especial, un contenido de NaOH de más de 5 g/l es dañino para la piel.
+En caso de contacto de un ácido o de filtrado ácido con el licor negro, se libera sulfuro de hidrógeno gaseoso, un gas tóxico.  Este hecho debe tomarse en consideración al manejar ácidos.
+Las salpicaduras de esta solución pueden provocar quemaduras en los ojos y la piel. Lave de inmediato el área afectada con grandes cantidades de agua. Después del lavado, acuda a un médico.
+Use una máscara facial o lentes, guantes protectores y un traje protector como equipos de protección individual.
+En caso de escape de licor negro a las aguas, se producirá un choque de pH alcalino y un incremento de la demanda biológica de oxígeno en los alrededores del punto de descarga.
+
+Hidróxido de sodio 
+El hidróxido de sodio (NaOH) es una sustancia altamente alcalina. El hidróxido de sodio utilizado en la etapa de oxígeno y en la planta de blanqueo es una solución incolora e inodora con una concentración de 100–200 g/l; 700–800 g/l antes de la dilución. 
+Su reacción con determinados metales (tales como el cinc o el aluminio) produce hidrógeno, un gas inflamable.  El contacto del agua con una solución de hidróxido de sodio de alta concentración produce salpicaduras y calor.
+Las salpicaduras de esta solución pueden provocar quemaduras en los ojos y la piel. Lave de inmediato el área afectada con grandes cantidades de agua. Después del lavado, acuda a un médico.
+Use una máscara facial o lentes, guantes protectores y un traje protector como equipos de protección individual.
+Si se produjera un escape de gran cantidad de hidróxido de sodio a las aguas, se producirá un choque de pH alcalino, que producirá entre otros daños la muerte de los peces. 
+
+Oxígeno
+El oxígeno (O2) es un gas inodoro e incoloro más pesado que el aire y que no arde pero apoya la combustión. El oxígeno gaseoso reacciona vigorosamente con numerosas sustancias orgánicas e inorgánicas, con el consiguiente riesgo de incendio. Un incremento de tan sólo unos pocos puntos porcentuales de la concentración de oxígeno en el aire causa un incremento considerable de la velocidad de combustión de la ropa, por ejemplo. Al contacto con el oxígeno, el aceite y la grasa pueden encenderse explosivamente.
+El punto de ebullición del oxígeno líquido es de -183 °C. El oxígeno se almacena en forma líquida en la planta. El oxígeno vaporizado también es frío. Al contacto, puede producir congelación y adherencia de la piel a las superficies frías. 
+Lave con grandes cantidades de agua las lesiones causadas por fugas de oxígeno y acuda a un médico. Airee exhaustivamente la ropa que haya estado expuesta a fugas de oxígeno.  
+Use una máscara facial o lentes, guantes de goma y un traje protector como equipos de protección individual.

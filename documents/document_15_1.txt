@@ -1,0 +1,91 @@
+
+3. PUESTA EN MARCHA
+
+3.1 Operaciones antes de la puesta en marcha
+
+3.1.1 Generalidades
+
+En este capítulo se definen las tareas que es necesario realizar antes de la puesta en marcha. Estas tareas preparatorias pueden y deben hacerse con la antelación suficiente para garantizar una puesta en marcha segura y protegida. Es necesario comprobar la situación mecánica, la electrificación y la instrumentación de la planta, así como garantizar la disponibilidad de los suministros. 
+
+Tras las tareas preparatorias, el departamento de blanqueo está preparado para ponerse en marcha de acuerdo con las condiciones de enclavamiento.
+
+3.1.2 Comprobaciones mecánicas
+
+Antes de la puesta en marcha, es necesario comprobar lo siguiente:
+Todos los trabajos de reparación se completaron.
+Las comprobaciones tras los trabajos de reparación se completaron.
+Las escotillas de inspección de los tanques están cerradas y los tubos de rebose abiertos.
+Placas ciegas eliminadas.
+Bridas ciegas de lentes en la posición correcta.
+Bridas de las tuberías y equipos bien ajustados y apretados correctamente.
+Tuberías de agua de sellado de las bombas, mezcladores y demás equipos preparados y en condiciones de trabajo.
+Se retiraron todas las herramientas y demás elementos de los equipos que hayan sido abiertos y reparados. 
+Especialmente antes de la primera puesta en marcha, todos los equipos y tanques se limpiaron cuidadosamente.
+Equipos y máquinas lubricados y cargas de aceite completadas.
+Las cubiertas de los interruptores y correas están colocadas.
+Las tuberías de gases de escape y tuberías de protección de vacío de los equipos y tanques están abiertas.
+Realizadas las rutinas de puesta en marcha especiales para los lavadores DD (según el manual del proveedor).
+
+3.1.3 Comprobaciones eléctricas
+
+Antes de la puesta en marcha, es necesario comprobar lo siguiente:
+Se comprobaron los sentidos de giro y acoplamientos de los motores.
+No hay ninguna condición de enclavamiento puenteada.
+Los trabajos de reparación se completaron.
+
+3.1.4 Comprobaciones de instrumentación
+
+Antes de la puesta en marcha, es necesario comprobar lo siguiente:
+El sistema de control de proceso se encuentra en buen estado y el aire de instrumentos está conectado de acuerdo con los requisitos.
+Las válvulas de control están en las posiciones correctas de puesta en marcha.
+
+3.1.5 Comprobaciones del proceso
+
+Antes de la puesta en marcha, es necesario comprobar lo siguiente:
+Las válvulas manuales están posicionadas de la forma mostrada en las hojas de flujo.
+Todas las válvulas de vaciado, muestreo y lavado están cerradas.
+Se usan valores de ajuste basados en la experiencia en los controladores.
+Se eliminaron los posibles puenteos de las condiciones de enclavamiento.
+Distribución de suministros puesta en marcha. (Consulte el capítulo 3.1.7)
+Todos los tanques de filtrado tienen un nivel de al menos un 30%.
+La planta de tratamiento de efluentes ha sido informada de la inminente puesta en marcha de la planta.
+Los interruptores locales de todos los equipos (lavadores DD) están en la posición DCS.
+Existen valores de ajuste adecuados para los caudales de licor de lavado y para la dilución hacia los transportadores de descarga.
+
+3.1.6 Comprobación del sistema de agua de sellado
+
+Los flujos de agua de sellado hacia las bombas, los mezcladores y demás equipos deben ser ajustados localmente con las válvulas manuales.
+El caudal del agua de sellado hacia las bombas MC y las bombas de vacío está controlado por la señal de puesta en marcha de las bombas que abren la válvula de cierre de agua de sellado. También el caudal de agua de sellado de los lavadores DD se controla de la misma forma por la señal de puesta en marcha del motor principal DD.
+
+Agua de sellado a baja presión
+Compruebe que el agua de sellado a baja presión esté disponible, medición de presión 150-PI-0107 por encima de 6 bar(g). Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete. La presión también puede consultarse en las mediciones locales.
+
+Agua de sellado a alta presión
+Cerciórese de que una de las bombas de agua de sellado a alta presión se haya puesto en marcha (150-26-052 ó 150-26-053; la válvula de cierre respectiva 4150-HS-0118 ó 150-HS-0119 se abre automáticamente) y de que las válvulas manuales de los lados de succión y presión estén abiertas. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete. La presión en la línea de agua de sellado a alta presión puede comprobarse desde la medición 150-PI-0114.
+
+3.1.7 Suministros
+
+Cerciórese de que las tuberías de la planta y del agua de enfriamiento, así como las tuberías de aire de la planta, estén presurizadas. Las válvulas de cierre deben ser abiertas cuidadosamente para evitar golpes de ariete. Las tuberías de vapor de media y baja presión deben ser presurizadas cuidadosamente.
+
+Agua potable
+Cerciórese de que la línea de agua potable esté presurizada (150-PI-0210) y de que las duchas de emergencia del área se encuentren en buen estado.
+Agua de planta
+Asegúrese de que la línea de agua de la planta esté presurizada (la presión 153-PI-0516 muestra más de 3,5 bar(g)) y que todas las válvulas manuales se encuentren en las posiciones mostradas en las hojas de flujo. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete.  
+Agua de enfriamiento
+Asegúrese de que la línea de agua de enfriamiento esté presurizada (la presión 150-PI-0220 muestra más de 3,5 bar(g)) y que todas las válvulas manuales se encuentren en las posiciones mostradas en las hojas de flujo. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete.  
+Agua caliente
+Cerciórese de que la bomba de agua caliente 151-26-211 de la planta de cocción esté en funcionamiento y de que todas las válvulas manuales se encuentren en las posiciones mostradas en las hojas de flujo. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete.   
+Agua desmineralizada
+Cerciórese de que la línea de agua desmineralizada esté presurizada y de que todas las válvulas manuales se encuentren en las posiciones mostradas en las hojas de flujo. 
+Aire comprimido
+Compruebe que el sistema de aire comprimido esté presurizado. Ponga las válvulas manuales en las posiciones mostradas en las hojas de flujo. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete.
+Aire de instrumentos
+Compruebe que los sistemas de aire de instrumentos estén presurizados. Ponga las válvulas manuales en las posiciones mostradas en las hojas de flujo. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete.
+Vapor de baja presión
+Cerciórese de que el sistema de vapor de baja presión haya sido presurizado (151-PI-0002) y que los colectores de condensación de agua estén en operación. Ponga las válvulas manuales en las posiciones mostradas en las hojas de flujo. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete.
+Vapor de media presión
+Cerciórese de que el sistema de vapor de media presión haya sido presurizado (151-PI-0100) y de que los colectores de condensación de agua estén en operación. Ponga las válvulas manuales en las posiciones mostradas en las hojas de flujo. Las válvulas deben ser abiertas cuidadosamente para evitar golpes de ariete.
+Recolección de gases de escape
+Compruebe que el lavador de gases de blanqueo esté listo y que las bombas de circulación del lavador de gases (153-26-601 y 153-26-602) estén en funcionamiento.
+Productos químicos
+Asegúrese de que todos los productos químicos: agua con dióxido de cloro (ClO2), peróxido de hidrógeno (H2O2), hidróxido de sodio (NaOH), ácido sulfúrico (H2SO4) y bisulfito de sodio (Na2S2O5) estén disponibles desde la planta de productos químicos. Compruebe que todas las válvulas manuales de las líneas de todos los productos químicos estén en la posición mostrada en las hojas de flujo.

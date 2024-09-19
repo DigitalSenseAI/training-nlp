@@ -1,0 +1,56 @@
+
+6.1.3 Temperatura y presión elevadas
+Enclavamiento de seguridad
+Las funciones de enclavamiento de seguridad controlan el proceso con el fin de evitar situaciones peligrosas debidas a altas temperaturas o presiones.
+
+El control del proceso y las funciones de enclavamiento se implementan en tres fases, de la siguiente forma: 
+
+1) El control del proceso normal ha sido implementado con un sistema de automatización distribuida de procesos que se usa para controlar y mantener el proceso en un estado deseado. El operador puede influir en el control del proceso y su estado. 
+2) Durante una perturbación, si el proceso finaliza fuera del rango de funcionamiento normal, se activan las funciones de enclavamiento programables. Estas funciones de enclavamiento están implementadas en el mismo sistema de automatización. 
+3) Algunas funciones de enclavamiento de seguridad han sido separadas del sistema de control del proceso para evitar riesgos o daños. Las funciones de enclavamiento de seguridad son independientes del sistema de control del proceso. Las averías del sistema de enclavamiento de seguridad ejecutan las funciones de enclavamiento y cambian el proceso a una situación segura (es decir, detienen las bombas y cierran las válvulas de vapor). El operador no tiene ninguna posibilidad de anular la operación de las funciones de enclavamiento de seguridad.
+
+Algunas válvulas están equipadas con resortes, ya sea de cierre o de apertura, para garantizar una posición segura de la válvula incluso si no llega aire de instrumentos a la válvula.
+
+Tanques, reactores y tuberías
+En distintas etapas del proceso, la pulpa y los productos químicos son manejados en reactores presurizados. Éstos están equipados con bloqueos de seguridad separados o válvulas de alivio frente a una presión excesiva. Es necesario un control regular del funcionamiento de los bloqueos de seguridad y las válvulas de alivio.
+
+Ponga cuidado para garantizar la seguridad del trabajo antes de realizar cualquier acción durante la operación o en caso de perturbaciones o mantenimiento en lugares en los que pueda existir presión. La presión debe ser liberada de una manera controlada, por ejemplo a través de una válvula de descarga. Antes de comenzar el trabajo, cerciórese de que no exista presión. Es posible que una válvula o una tubería esté taponada durante la descarga o que se genere vacío en la parte superior de la tubería o un reactor, impidiendo así la descarga hacia la parte inferior.  
+Al descargar a un canal abierto o al suelo, cerciórese de que no puedan llegar salpicaduras a las personas presentes.
+
+Al realizar descargas o muestreos, determine qué productos químicos se están usando, la presión y la temperatura de la tubería, el tanque o el equipo.  Ponga cuidado para utilizar medios de protección que contemplen el peor escenario posible, normalmente protección ocular y guantes protectores como mínimo.
+
+Altas temperaturas y vapor 
+En la línea de fibra, la temperatura de los flujos del proceso es de 70–160 °C y debe prestarse una especial atención a los muestreos y las fugas. En particular, los líquidos que están a más de 100 °C generan vapor al liberarlos a la presión atmosférica.
+En el proceso se utiliza vapor de media presión a una temperatura de aproximadamente 195 °C y una presión de 8–12 bar, así como vapor de baja presión a una temperatura de 145 °C y una presión de 3–4 bar. El vapor sobrecalentado no es necesariamente visible en el lugar de la fuga.
+Al muestrear materiales calientes, protéjase los ojos y la piel. Utilice ropa protectora y guantes cuando se encuentre cerca de superficies que no estén aisladas. 
+El vapor tiene capacidad para provocar quemaduras. Como tratamiento de primeros auxilios para las quemaduras, se debe lavar la parte afectada con agua fría. Tras el lavado, se debe consultar a un médico.
+
+6.1.4 Ruido
+El nivel de ruido en el interior del edificio y cerca de los equipos exteriores puede rebasar los 80 dBA. Por tanto, se debe utilizar protección auditiva.
+
+6.1.5 Seguridad en el trabajo
+
+Con el fin de evitar accidentes graves o muertes, es de la máxima importancia seguir todas las instrucciones de seguridad que aparecen a continuación. Si no comprende todas las instrucciones, no continúe hasta haber hallado respuesta a todas sus preguntas.
+
+Estudie los manuales y las instrucciones de seguridad de todas las máquinas y los productos químicos con los que trabajará.
+No ponga en marcha ningún equipo antes de instalar todas sus protecciones y cubiertas.
+No abra ninguna puerta ni retire ninguna cubierta mientras la máquina esté en funcionamiento, a no ser que las aperturas estén protegidas por mallas.
+No acerque sus manos, pies, herramientas ni otros objetos extraños a una unidad o un componente que esté girando. De hacerlo, podrían producirse lesiones o incluso la muerte.
+
+Antes de realizar cualquier trabajo o inspección a corta distancia de cualquier parte móvil, es necesario bloquear los interruptores de los motores y/o los interruptores de alimentación eléctrica en la posición desconectada. Las personas que realicen estos trabajos deben colocar personalmente un candado en los interruptores para cerciorarse de que no exista tensión. Esta persona debe conservar la llave consigo. Coloque un rótulo de advertencia «PELIGRO, PERSONAL TRABAJANDO» en un lugar visible cerca del punto de bloqueo. Sólo la persona que bloqueó el interruptor debe retirar el candado. Para eliminar el riesgo de puesta en marcha accidental de los equipos, también es posible retirar los fusibles y aflojar la correa en V.
+
+Correspondientemente, desconecte todos los componentes neumáticos e hidráulicos, los sistemas de vapor y los circuitos eléctricos que suministran electricidad a las funciones de control, si estos sistemas son independientes de la alimentación eléctrica principal. Ciérrelos y bloquéelos. Dote a todos los elementos giratorios de cubiertas fijas para evitar la puesta en marcha de los equipos por error.
+
+Si es necesario o adecuado trabajar dentro de una máquina o un tanque, dos o más personas deben trabajar siempre juntas de modo que al menos una persona permanezca en el exterior de la máquina mientras las demás realizan el trabajo. La persona que permanezca en el exterior de la máquina no debe abandonar jamás esta posición mientras quede cualquier persona en el interior de la máquina.
+Para medidas tales como mantenimiento, ajustes, etc., puede ser necesario entrar en una unidad mientras está en funcionamiento. Tales acciones sólo deben ser realizadas por personal competente y capacitado y siempre con el permiso previo de los gerentes.	
+Puede producirse formación de sulfuro de hidrógeno (HS) en los canales del suelo y en los puntos en los que se mezclen filtrados alcalinos y ácidos durante una perturbación. El sulfuro de hidrógeno es un gas muy tóxico y potencialmente catastrófico. Incluso una cantidad pequeña de sulfuro de hidrógeno en el aire puede olerse gracias a su olor a huevos podridos. El sulfuro de hidrógeno es más pesado que el aire y por tanto desplaza el aire de la parte inferior de los recipientes, provocando asfixia muy rápidamente. La única protección segura frente al sulfuro de hidrógeno es usar equipos de respiración con aire a presión.
+
+El equipo en el que se realice el mantenimiento debe ser aislado de otras partes del proceso para evitar la entrada de cualquier líquido o gas proveniente de otros equipos o tuberías. Las válvulas que puedan ser operadas por las funciones de enclavamiento de seguridad o por resortes deben ser comprobadas para que permanezcan en la posición segura para el trabajo de mantenimiento. Antes del trabajo, verifique que la función de enclavamiento de seguridad no es necesaria durante el mantenimiento.
+
+Lave los tanques para limpiar la pulpa de sus paredes antes de entrar en ellos. Ventile adecuadamente los tanques y garantice un flujo continuo de aire fresco durante el trabajo. Puede producirse escasez de oxígeno en los tanques que contienen material sujeto a descomposición biológica, por ejemplo los chips.
+Antes de realizar trabajos de soldadura o corte, cerciórese de que las tuberías, los tanques y los equipos estén aislados, completamente descargados y limpios de gases y líquidos combustibles.
+Los tanques y una parte de los equipos de los departamentos pueden estar conectados a tuberías de escape encaminadas al tejado y en las cuales el flujo es normalmente ascendente. Durante las paradas y en situaciones de perturbación, el sentido de este flujo puede cambiar, lo cual debe ser tomado en cuenta al planear cualquier trabajo en los tanques y las tuberías. 
+
+Utilice un cable de seguridad cuando mantenga suspendida alguna parte de un equipo, fuera de las plataformas de servicio.
+Siempre que sea necesario, el operador o trabajador de mantenimiento debe utilizar una máscara de respiración y/o ropa protectora.  
+Cualquier fuga presente en los equipos debe ser reparada, y los licores vertidos sobre el suelo deben ser lavados de inmediato con agua.

@@ -1,0 +1,59 @@
+
+3.2.8 Etapa D1
+
+Cambie los bucles de dilución de tubo de soporte de alimentación de etapa D1, 153-PIC-0278, al modo AUTO con ajustes adecuados. Las válvulas de dilución se abren para diluir la pulpa cuando aumente la consistencia.
+
+Cambie el bucle 153-HS-0287, permiso de uso de productos químicos de etapa D1, a la posición «ON» cuando las condiciones de enclavamiento permitan realizar la selección.
+
+Cambie el controlador de caudal de ácido sulfúrico 153-FIC-0283 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el ácido sulfúrico al 98%. La válvula de aislamiento 153-HS-0285 se abre, si la salida del controlador de caudal de ácido sulfúrico 153-FIC-0283 es > 10%. Si no se utiliza ácido sulfúrico para el control del pH, mantenga los bucles 153-FIC-0283 y 153-HS-0285 en el modo MAN y cerrados.
+
+Cambie el controlador de caudal de agua con dióxido de cloro 153-FIC-0292 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el agua con dióxido de cloro. La válvula de aislamiento 153-HS-0293 se abre cuando la salida del controlador de caudal de dióxido de cloro 153-FIC-0292 es > 10%.
+
+Cambie el controlador de caudal de bisulfito de sodio 153-FIC-0284 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el bisulfito de sodio.
+
+Cuando aumenta la carga del rascador superior de la torre de etapa D1, la torre D1 está llena de pulpa.
+
+Tras el ciclo de agua, la consistencia de la pulpa aumentará gradualmente en la alimentación del lavador DD de etapa D1. También puede observarse un aumento de presión en el bucle 153-PIC-0324. Esta medición de presión está situada en la caja de alimentación del lavador DD. También aumenta el torque 153-WI-0311. El aumento de presión del agua de lavado, que se ve en el bucle 153-PIC-0331, indica más claramente que existe formación de torta de pulpa en el tambor del lavador DD.
+
+Indique los valores de dosis de agua de lavado deseada para los bucles 153-FIC-0330 y 153-FIC-0337 y cambie los bucles al modo REMOTO. Compruebe el ajuste de dilución del tornillo de lavador DD de la etapa D1 y realice correcciones en el mismo en caso necesario.
+
+Indique el valor de ajuste adecuado para el controlador de temperatura 153-TIC-0388 que mide la temperatura de la pulpa que va a la torre de etapa P y cambie este bucle al modo AUTO. El bucle que está alimentando vapor de baja presión al calentador Solaris de etapa D1, 153-20-320, es 153-TIC-0338. Cambie este bucle al modo REMOTO. A continuación la temperatura 153-TIC-0388 controla el caudal de vapor.
+
+3.2.9 Etapa P
+
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa P, 153-PIC-0378 al modo AUTO con un ajuste adecuado. La válvula de dilución se abre para diluir la pulpa cuando aumente la consistencia.
+
+Cambie el bucle 153-HS-0394, permiso de uso de productos químicos de etapa P, a la posición «ON» cuando las condiciones de enclavamiento permitan realizar la selección.
+
+Cambie el controlador de caudal de hidróxido de sodio 153-FIC-0282 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el hidróxido de sodio. Recuerde que el punto de carga de este producto químico es en la dilución del tornillo del lavador DD de la etapa D1.
+
+Cambie el controlador de caudal de peróxido de hidrógeno 153-FIC-0383 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el peróxido. La válvula de aislamiento 153-HS-0384 se abre, si la salida del controlador de caudal de peróxido 153-FIC-0383 es > 10%.
+
+Cuando aumenta la carga del rascador superior de la torre de etapa P, la torre P está llena de pulpa.
+
+Tras el ciclo de agua, la consistencia de la pulpa aumentará gradualmente en la alimentación del lavador DD de etapa P. También puede observarse un aumento de presión en el bucle 153-PIC-0424. Esta medición de presión está situada en la caja de alimentación del lavador DD. También aumenta el torque 153-WI-0411. El aumento de presión del agua de lavado, que se ve en el bucle 153-PIC-0431, indica más claramente que existe formación de torta de pulpa en el tambor del lavador DD.
+
+Indique los valores de dosis de agua de lavado deseada para los bucles 153-FIC-0430 y 153-FIC-0437 y cambie los bucles al modo REMOTO. Compruebe el ajuste de dilución del tornillo de lavador DD de la etapa P y realice correcciones en el mismo en caso necesario.
+
+Ponga en marcha 153-24-425, bomba de vacío de DD de blanqueo, si no está funcionando aún.
+
+153-HS-0453, 153-HS-0353, 153-HS-0253 y 153-HS-0153, aires de escape de los lavadores DD de blanqueo hacia la bomba de vacío 153-24-425, se abren en el modo AUTO cuando todas las presiones de alimentación de los lavadores DD de blanqueo están por encima del límite bajo y la salida de las válvulas de control de alimentación de la pulpa de los lavadores DD está por encima del 20%.
+
+3.2.10 Pulpa blanqueada
+
+Si el valor de pH de la pulpa que va hacia las torres de almacenamiento de pulpa blanqueada es excesivo, se utiliza ácido sulfúrico al 98% para el control del pH. En este caso, cambie el permiso de productos químicos de pulpa blanqueada 153-HS-0504 a la posición «ON» y cambie el controlador de caudal de ácido sulfúrico 153-FIC-0505 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el ácido sulfúrico al 98%. La válvula de aislamiento 153-HS-0506 se abre cuando la salida del controlador del caudal de ácido sulfúrico 153-FIC-0505 es > 10%. Como alternativa, esta dosis de ácido puede aplicarse basándose en el pH medido, 153-QIC-0509, y la producción de blanqueo. Si este es el modo de ejecución deseado, realice la selección en el sistema DCS en el bucle 153-FIC-0505.
+
+3.2.11 Generalidades
+
+También durante la puesta en marcha de la planta de blanqueo, el operador debe vigilar el proceso, es decir, los niveles de los tanques y tubos de soporte, el estado de operación de los lavadores DD y la estabilización de los controladores DCS a medida que progresa la puesta en marcha.
+Debe prestarse una atención especial al control y el equilibrio de las temperaturas en las distintas etapas del proceso.
+
+El blanqueo está ahora en producción de pulpa.
+
+3.2.12 Puesta en marcha con el sistema parcialmente vacío
+
+En una situación en la cual una de las torres de blanqueo haya sido drenada (torre de etapa Da, torre de etapa EP, torre de etapa D1 o torre de etapa P), la torre vaciada puede llenarse separadamente con licor o, en ocasiones y si existe urgencia, directamente con pulpa. Durante el llenado de este reactor o torre, las siguientes etapas del proceso normalmente deben ser puestas en marcha a contracorriente. Cualquier cambio de temperatura debe ser observado cuidadosamente durante el llenado directo con pulpa.
+
+3.2.13 Puesta en marcha con pulpa
+
+El blanqueo se pone en marcha a contracorriente del sentido de la producción, al ponerlo en marcha con pulpa. En este caso, ni las torres ni los tanques de blanqueo fueron vaciados. Esto significa que la pulpa comenzará a fluir hacia las torres de almacenamiento de pulpa blanqueada después de un retardo muy breve cuando comienza el bloqueo desde la torre de almacenamiento de pulpa sin blanquear, dado que en el área de blanqueo no existen almacenamientos intermedios grandes. Por tanto, la puesta en marcha del blanqueo depende del funcionamiento de la depuración y del lavado post-oxígeno.

@@ -1,0 +1,52 @@
+
+3.2.5 Ciclo de pulpa
+
+Cuando los departamentos de depuración y lavado post-oxígeno estén operando con pulpa, también el blanqueo comenzará a procesar pulpa gradualmente. La consistencia va aumentando de forma gradual durante el ciclo de pulpa. La consistencia hacia el blanqueo puede verse desde el bucle 153-QIC-2022, consistencia hacia la torre de etapa Da.
+
+Compruebe que todos los productos químicos, por ejemplo ácido sulfúrico, hidróxido de sodio, peróxido de hidrógeno, agua con dióxido de cloro y bisulfito de sodio estén disponibles desde la planta de productos químicos.
+
+3.2.6 Etapa Da
+
+Cierre la válvula 153-EIC-0006, dilución hacia el raspador de la torre de almacenamiento de pulpa sin blanquear y cambie el bucle al modo REMOTO. La carga del motor del raspador de la torre de almacenamiento de pulpa sin blanquear aumenta cuando la consistencia aumenta y la válvula de dilución 153-EIC-0006 se abre cuando la carga del motor supera el ajuste. Por tanto, vigile la consistencia. Cierre también 153-QIC-0022, consistencia hacia la torre de etapa Da y cambie el bucle al modo AUTO. El objetivo de consistencia para el bucle (consistencia hacia la torre de etapa Da) es de aproximadamente el 11-12%.
+
+Asegúrese de que las bombas de filtrado de etapa Da y el filtro de fibra estén en operación. Si no es así, póngalos en marcha según las instrucciones del capítulo 3.2.4 Puesta en marcha con agua y pulpa / etapa Da.
+
+La producción de blanqueo puede verse desde el bucle de cálculo de producción de DCS, 153-UI-0001. Cuando la producción calculada esté cerca del valor de producción deseado, compruebe el ajuste del controlador de caudal 153-FIC-0005, pulpa hacia la torre de etapa Da, y cambie el bucle (si todavía no lo está) al modo AUTO. 
+
+Cambie el bucle 153-HS-0013, permiso de uso de productos químicos de etapa Da, a la posición «ON» cuando las condiciones de enclavamiento permitan realizar la selección.
+
+El agua con dióxido de cloro hacia la etapa Da se precalienta con filtrado procedente de la etapa EP. Compruebe que el calentador de ClO2 153-28-006 y las válvulas manuales (153-31-0032, 153-31-0034, 153-31-0036 y 153-31-0038) estén abiertas, que el calentador esté lleno con líquido y que el aire haya sido arrastrado antes de que se utilice el calentador. Cambie el control de temperatura de agua con dióxido de cloro 153-TIC-0023 al modo AUTO y ajústelo adecuadamente. Cuando el dióxido de cloro esté circulando a través del calentador, abra la válvula de cierre del filtrado de etapa EP, 153-HS-0031 y cambie el bucle al modo AUTO. Asegúrese de que la válvula de enfriamiento de emergencia 153-HS-0032 esté en el modo AUTO.
+
+Cambie el controlador de caudal de agua con dióxido de cloro 153-FIC-0026 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el agua con dióxido de cloro. Las válvulas de aislamiento 153-HS-0027 se abren cuando la salida del controlador de caudal de dióxido de cloro 153-FIC-0026 es > 15%.
+
+Cambie el controlador de caudal de ácido sulfúrico al 98% 153-FIC-0016 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el ácido sulfúrico al 98%. Ponga en marcha la bomba booster de ácido sulfúrico, 153-26-007. La válvula de aislamiento 153-HS-0017 se abre cuando la presión 153-PI-0042, ácido sulfúrico a alimentación Da es mayor que 153-PI-0089, presión de alimentación Da.  El valor pH medido, 153-QI-0020, puede utilizarse para controlar la alimentación de ácido hacia la etapa Da. El modo de control, ya sea de dosis o de pH, puede seleccionarse en el bucle 153-FIC-0016. 
+
+Cambie el controlador de caudal de bisulfito de sodio 153-FIC-0015 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el bisulfito de sodio. 
+
+Cuando aumenta la carga del rascador superior de la torre de etapa Da, la torre Da está llena de pulpa.
+
+Tras el ciclo de agua, la consistencia de la pulpa aumentará gradualmente en la alimentación del lavador DD de etapa Da. También puede observarse un aumento de presión en el bucle 153-PIC-0124. Esta medición de presión está situada en la caja de alimentación del lavador DD. También aumenta el torque 153-WI-0111. El aumento de presión del agua de lavado, que se ve en el bucle 153-PIC-0131, indica más claramente que existe formación de torta de pulpa en el tambor del lavador DD.
+
+Indique los valores de dosis de agua de lavado deseada para los bucles 153-FIC-0137 y 153-FIC-0130 y cambie los bucles al modo REMOTO. Compruebe el ajuste de dilución del tornillo de lavador DD de etapa Da, 153-HI-0132, y realice correcciones en el mismo en caso necesario.
+
+Indique el valor de ajuste adecuado para el controlador de temperatura 153-TIC-0196 que mide la temperatura de la pulpa que va a la torre de etapa EP y cambie este bucle al modo AUTO. El bucle que está alimentando vapor de baja presión al calentador Solaris de etapa Da 153-20-120 es 153-TIC-0138. Cambie este bucle al modo REMOTO. A continuación la temperatura 153-TIC-0196 controla el caudal de vapor.
+
+3.2.7 Etapa EP
+
+Asegúrese de que la bomba de filtrado más sucio de la etapa EP esté en marcha. Si no es así, póngala en marcha según las instrucciones del capítulo 3.2.4 Puesta en marcha con agua y pulpa / etapa EP.
+
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa EP, 153-PIC-0182 al modo AUTO con un ajuste adecuado. La válvula de dilución se abre para diluir la pulpa cuando aumente la consistencia.
+
+Cambie el bucle 153-HS-0194, permiso de uso de productos químicos de etapa EP, a la posición «ON» cuando las condiciones de enclavamiento permitan realizar la selección.
+
+Cambie el controlador de caudal de NaOH 153-FIC-0095 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el hidróxido de sodio. Recuerde que el punto de carga de este producto químico es en la dilución del tornillo del lavador DD de la etapa Da.
+
+Cambie el controlador de caudal de peróxido de hidrógeno 153-FIC-0189 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el peróxido. La válvula de aislamiento 153-HS-0190 se abre, si la salida del controlador de caudal de peróxido 153-FIC-0189 es > 10%.
+
+Cambie el controlador de caudal de talco 153-FIC-0096 al modo REMOTO y ajuste la carga química deseada en kg/tSa para este bucle. En la página de concentración de productos químicos en el sistema DCS, compruebe que se haya proporcionado un valor de concentración de productos químicos para el talco. Recuerde que el punto de carga de este producto químico es en la dilución del tornillo del lavador DD de la etapa Da.
+
+Cuando aumenta la carga del rascador superior de la torre de etapa EP, la torre EP está llena de pulpa.
+
+Tras el ciclo de agua, la consistencia de la pulpa aumentará gradualmente en la alimentación del lavador DD de etapa EP. También puede observarse un aumento de presión en el bucle 153-PIC-0224. Esta medición de presión está situada en la caja de alimentación del lavador DD. También aumenta el torque 153-WI-0211. El aumento de presión del agua de lavado, que se ve en el bucle 153-PIC-0231, indica más claramente que existe formación de torta de pulpa en el tambor del lavador DD.
+
+Indique los valores de dosis de agua de lavado deseada para los bucles 153-FIC-0230 y 153-FIC-0237 y cambie los bucles al modo REMOTO. Compruebe el ajuste de dilución del tornillo de lavador DD de la etapa EP y realice correcciones en el mismo en caso necesario.

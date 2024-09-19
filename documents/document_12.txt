@@ -1,0 +1,101 @@
+
+Instrucciones de operación
+de procesos
+Blanqueo
+Montes del Plata
+Referencia D-02-811373-025
+Estado: FINAL
+Fecha: 08-02-2013
+Autor: N Littman
+
+Documento confidencial. Reservados todos los derechos. No se permiten la duplicación ni la entrega a terceros sin la autorización escrita de ANDRITZ AG.
+
+Cliente: Montes del Plata
+Nombre de la planta:  Montes del Plata
+
+Contacto: ANDRITZ OY
+División: División de tecnologías de fibra 
+
+Responsable de proyecto: Mikko Metso
+
+Teléfono: +358 (0)20 450 5555
+Fax: +358 (0)20 450 5540
+Correo electrónico: fiberline@andritz.com
+www.andritz.com
+
+ÍNDICE
+
+1.	GENERALIDADES	4
+2.	DATOS TÉCNICOS	5
+2.1	Especificaciones de las máquinas principales	5
+2.2	Datos de operación del proceso principal	5
+2.3	Equipos principales del proceso	6
+2.3.1	Raspador de descarga de la torre de almacenamiento de pulpa sin blanquear	6
+2.3.2	Bombeo MC hacia la etapa Da	7
+2.3.3	Bombeo MC a otras etapas de blanqueo	9
+2.3.4	Mezcladores de productos químicos	9
+2.3.5	Lavadores de desplazamiento de tambor	10
+2.3.6	Torres de blanqueo	13
+2.3.7	Lavador de gases de la planta de blanqueo	15
+2.4	Operación y control	15
+2.4.1	Control local del lavador DD	15
+3.	PUESTA EN MARCHA	16
+3.1	Operaciones antes de la puesta en marcha	16
+3.1.1	Generalidades	16
+3.1.2	Comprobaciones mecánicas	16
+3.1.3	Comprobaciones eléctricas	17
+3.1.4	Comprobaciones de instrumentación	17
+3.1.5	Comprobaciones del proceso	17
+3.1.6	Comprobación del sistema de agua de sellado	18
+3.1.7	Suministros	18
+3.2	Puesta en marcha del sistema vacío	20
+3.2.1	Llenado de agua del lavador de gases de la planta de blanqueo	20
+3.2.2	Llenado de las torres, los tanques y los reactores	21
+3.2.3	Calentamiento de los lavadores DD	33
+3.2.4	Puesta en marcha con agua y pulpa	34
+3.2.5	Ciclo de pulpa	44
+3.2.6	Etapa Da	44
+3.2.7	Etapa EP	46
+3.2.8	Etapa D1	47
+3.2.9	Etapa P	48
+3.2.10	Pulpa blanqueada	49
+3.2.11	Generalidades	50
+3.2.12	Puesta en marcha con el sistema parcialmente vacío	50
+3.2.13	Puesta en marcha con pulpa	50
+4.	OPERACIÓN NORMAL	50
+4.1	Control de la producción	51
+4.2	Productos químicos	53
+4.3	Control del licor de lavado	54
+4.4	Lavadores DD	54
+4.5	Diluciones	56
+4.5.1	Tanques	56
+4.5.2	Tornillos de los lavadores DD	56
+5.	PARADAS	56
+5.1	Generalidades	57
+5.2	Paradas breves	57
+5.3	Paradas prolongadas	63
+5.4	Perturbaciones de operación	67
+5.4.1	Lavadores DD	68
+5.4.2	Bombas MC	69
+5.4.3	Bombas de proceso	70
+6.	SEGURIDAD	71
+6.1	Seguridad general	71
+6.1.1	Productos químicos	71
+6.1.2	Productos químicos generados como productos intermedios	77
+6.1.3	Temperatura y presión elevadas	77
+6.1.4	Ruido	79
+6.1.5	Seguridad en el trabajo	79
+7.	SEGURIDAD DEL DEPARTAMENTO DE BLANQUEO	81
+7.1	Seguridad de los equipos	81
+7.1.1	Válvulas con retorno de muelle	81
+7.2	Enclavamiento de seguridad	82
+7.2.1	Funciones de enclavamiento de seguridad del blanqueo	82
+ÍNDICE DE FIGURAS 
+
+Figura 1: Raspador de descarga de la torre de almacenamiento de pulpa sin blanquear	7
+Figura 2: Bombeo MC hacia la etapa Da	8
+Figura 3: Solución de bombeo MC con tubo de soporte	9
+Figura 4: Mezclador de productos químicos	10
+Figura 5: Lavador de desplazamiento de tambor	12
+Figura 6: Lavador de desplazamiento de tambor, componentes principales	13
+Figura 7: Torre de blanqueo y raspador superior	15

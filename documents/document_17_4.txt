@@ -1,0 +1,105 @@
+
+5.4 Perturbaciones de operación
+
+A continuación se enumeran algunas averías del proceso, los posibles motivos y las instrucciones correctivas. Los procedimientos correctivos de las averías mecánicas de los equipos se explican en los manuales de mantenimiento específicos de los proveedores.
+
+5.4.1 Lavadores DD
+
+Avería: Alta conductividad en el filtrado de retorno del lavador DD
+Motivo: Bajo factor de dilución
+Corrección:Compruebe que el caudal de agua de lavado y la consistencia en la salida sean normales.
+Avería: Alta conductividad en el filtrado de retorno del lavador DD
+Motivo: Gas en la pulpa de alimentación o en el líquido de lavado
+Corrección: Agregue un antiespumante. Cerciórese de que los niveles del tanque de descarga y del tanque de filtrado para el lavado con O2 no sean demasiado bajos.
+Avería: Alta conductividad en el filtrado de retorno del lavador DD
+Motivo: Torta de pulpa no descargada correctamente del tambor
+Corrección: Compruebe la presión y las válvulas de expulsión de aire. Cerciórese de que el caudal de lavado del tambor sea normal. Reduzca la presión de alimentación del lavador.
+Avería: Baja consistencia de salida del lavador DD
+Motivo: Insuficiente presión de alimentación
+Corrección: Incremente la presión de alimentación.
+Avería: Baja consistencia de salida del lavador DD
+Motivo: Baja consistencia de alimentación
+Corrección: Incremente la consistencia de alimentación. Compruebe el control de consistencia para detectar posibles variaciones claras.
+Avería: Baja consistencia de salida del lavador DD
+Motivo: Vacío insuficiente en el tanque de vacío
+Corrección: Cerciórese de que el nivel del tanque de vacío no sea excesivo. Agregue antiespumante al tanque de vacío, si se forman espumas. Compruebe el caudal del agua a la bomba de vacío. Retire la malla de protección de la entrada, si no la ha retirado aún. Cerciórese de que las cavidades de pulpa del tambor estén llenas.
+Avería: Baja consistencia de salida del lavador DD
+Motivo: Temperatura insuficiente en el líquido de lavado
+Corrección: Trabaje con una producción baja hasta que la temperatura haya aumentado.
+Avería: Baja consistencia de salida del lavador DD
+Motivo: Calidad de pulpa
+Corrección: Compruebe si el número Kappa es anormalmente bajo o alto.
+Avería: Baja consistencia de salida del lavador DD
+Motivo: La barra de sellado situada sobre el transportador de descarga está demasiado abierta
+Corrección: Ajuste la barra de sellado para acercarla al tambor y ábrala levemente, si toca el tambor.
+Avería: Llenado inadecuado de las cavidades de pulpa del tambor del lavador DD
+Motivo: Insuficiente presión de alimentación
+Corrección: Incremente la presión de alimentación.
+Avería: Llenado inadecuado de las cavidades de pulpa del tambor del lavador DD
+Motivo: Taponamiento de la placa perforada del tambor
+Corrección: Compruebe el lavado del tambor de forma que la presión a las duchas sea de al menos 10 bares, el caudal sea correcto y todas las boquillas de pulverización estén abiertas. En la parada, limpie el tambor con agua a presión (evitando pulverizar contra los sellos finales) con/sin con un lavado ácido.
+Avería: Llenado inadecuado de las cavidades de pulpa del tambor del lavador DD
+Motivo: Gas en la pulpa de alimentación
+Corrección: Agregue antiespumante a la pulpa de alimentación
+Avería: Llenado inadecuado de las cavidades de pulpa del tambor del lavador DD
+Motivo: Insuficiente consistencia de alimentación
+Corrección: Incremente la consistencia de alimentación
+Avería: Alto torque en el lavador DD
+Motivo: Una o varias barras de sellado en contacto con el tambor
+Corrección: Compruebe qué barra de sellado está demasiado cerca y ajústela para separarla del tambor.
+Avería: Alto torque en el lavador DD
+Motivo: Velocidad de rotación insuficiente
+Corrección: Reduzca el ajuste de presión de alimentación.
+Avería: Alto torque en el lavador DD
+Motivo: Sellos finales dañados
+Corrección: Compruebe si los caudales y presiones del agua de sellado son anormales. Cambie los sellos durante la próxima parada.
+
+5.4.2 Bombas MC		
+
+Avería: La bomba MC no bombea correctamente
+Motivo: Problemas de desgasificación
+Corrección: Compruebe el sistema de desgasificación (obstrucciones, etc.). Compruebe que la válvula de desgasificación esté abierta, que exista vacío en la línea de desgasificación y que la línea no esté taponada (la línea está caliente, el cierre de la válvula de desgasificación empeora el bombeo). Ajuste la apertura de la válvula de desgasificación.
+Avería: La bomba MC no bombea correctamente
+Motivo: Alta consistencia (alta presión en la descarga de la bomba)
+Corrección: Aumente la dilución.
+Avería: La bomba MC no bombea correctamente
+Motivo: Caudal excesivo
+Corrección: Reduzca la dilución o la producción.
+Avería: La bomba MC no bombea correctamente
+Motivo: Tubería de pulpa taponada
+Corrección: Diluya la bomba MC, cierre la válvula situada tras la bomba MC en el modo manual y ábrala al 100%. Repita el proceso. Si el problema no desaparece, aísle y vacíe la línea y desmonte las válvulas para lavarlas.
+Avería: La bomba MC no bombea correctamente
+Motivo: Nivel (presión) insuficiente en el lado de succión; bombeo inestable
+Corrección: Compruebe el nivel.
+Avería: Capacidad insuficiente. Las tuberías vibran. La carga del motor y la presión de desgasificación son inestables
+Motivo: La consistencia de la pulpa es excesiva; caudal reducido
+Corrección: Aumente la dilución.
+Avería: La bomba se para; la carga del motor es excesiva
+Motivo: Caudal excesivo
+Corrección: Reduzca la dilución.
+Avería: La bomba se para; la carga del motor es excesiva
+Motivo: Incrustaciones (extractivos) en la carcasa de la bomba
+Corrección: Abra y limpie la bomba durante la parada.
+		
+5.4.3 Bombas de proceso		
+
+Avería: Baja capacidad (válvulas de control totalmente abiertas con caudal normal)
+Motivo: Consistencia elevada
+Corrección: Aumente la dilución
+Avería: Baja capacidad (válvulas de control totalmente abiertas con caudal normal)
+Motivo: Avería en las válvulas. Obstrucción en el lado de succión, en el rodete o en la tubería de descarga
+Corrección: Cerciórese de que las válvulas estén abiertas. Pare la bomba, drene las líneas de tuberías e inténtelo de nuevo. Si esto no resuelve el problema, abra la bomba y compruebe las tuberías.
+Avería: Baja capacidad (válvulas de control totalmente abiertas con caudal normal)
+Motivo: Gas en el material
+Corrección: Compruebe el nivel del lado de succión.
+Avería: Baja capacidad (válvulas de control totalmente abiertas con caudal normal)
+Motivo: Presión insuficiente en el lado de succión de la bomba
+Corrección: Incremente el nivel del lado de succión. Cerciórese de que la válvula de succión está abierta correctamente, que la línea de succión no esté taponada y que la presión de succión sea normal.  
+Avería: Cavitación (golpeteo)
+Motivo: Presión insuficiente en el lado de succión
+Corrección: Consulte la información anterior.
+Avería: Cavitación (golpeteo)
+Motivo: Caudal insuficiente
+Corrección: Incremente el caudal.
+
+El caudal del líquido bombeado se ajusta regulando la válvula de descarga. NOTA: No utilice nunca la válvula de succión para ajustar el caudal. No accione la bomba durante mucho tiempo con la válvula de descarga cerrada ni por debajo del caudal mínimo recomendado (caudal fuera de la curva NPSH).

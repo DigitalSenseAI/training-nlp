@@ -1,0 +1,59 @@
+
+7. SEGURIDAD DEL DEPARTAMENTO DE BLANQUEO
+
+7.1 Seguridad de los equipos
+
+Las presiones de diseño de los equipos son:
+Filtro de fibra: 10 bar
+
+7.1.1 Válvulas con retorno de muelle
+
+Algunas válvulas están dotadas de un sistema de retorno con muelle para las posibles perturbaciones de la distribución de aire de instrumentos. Estas válvulas se cierran o abren cuando la presión de aire de instrumentos desaparece.
+
+En el blanqueo, las siguientes válvulas están equipadas con un actuador de acción inversa (cierre por resorte):
+153-PIC-0067, vapor de media presión a la torre de almacenamiento de pulpa sin blanquear
+153-FIC-0015, bisulfito de sodio a la torre de etapa Da
+153-HS-0017, ácido sulfúrico a la etapa Da
+153-HS-0025, cierre 1 de mezclador de etapa Da
+153-HS-0027, dióxido de cloro al mezclador de etapa Da
+153-HS-0101, válvula 1 de pulpa a lavador DD de etapa Da
+153-HS-0102, válvula 2 de pulpa a lavador DD de etapa Da
+153-HS-0031, filtrado EP a calentador de ClO2
+153-HS-0139, vapor de baja presión a etapa Da Solaris
+153-FIC-0095, NaOH al lavador DD de la etapa Da
+
+153-HS-0190, H2O2 a tubo de soporte de etapa EP
+153-HS-0184, cierre de tubo de soporte de etapa EP
+153-HS-0201, válvula 1 de pulpa a lavador DD de etapa EP
+153-HS-0202, válvula 2 de pulpa a lavador DD de etapa EP
+
+153-HS-0285, H2SO4 a tubo de soporte de alimentación a etapa D1
+153-HS-0291, cierre de mezclador de etapa D1
+153-HS-0293, dióxido de cloro a mezclador de etapa D1
+153-FIC-0284, bisulfito de sodio a torre de etapa D1
+153-HS-0301, válvula 1 de pulpa a lavador DD de etapa D1
+153-HS-0302, válvula 2 de pulpa a lavador DD de etapa D1
+153-FIC-0282, hidróxido de sodio al tornillo de lavador DD de etapa D1
+153-HS-0339, vapor de baja presión a etapa D1 Solaris 
+
+153-HS-0384, H2O2 a bomba MC de alimentación de etapa P
+153-HS-0490, cierre de tubo de soporte de etapa P
+153-HS-0401, válvula 1 de pulpa a lavador DD de etapa P
+153-HS-0402, válvula 2 de pulpa a lavador DD de etapa P
+
+153-HS-0506, H2SO4 a tubo de soporte de pulpa blanqueada
+153-HS-0515, cierre de tubo de soporte de pulpa blanqueada
+
+153-FIC-0905, bisulfito de sodio a lavador de gases de la planta de blanqueo
+
+153-FIC-0907, hidróxido de sodio a lavador de gases de la planta de blanqueo
+
+En el blanqueo no existe ninguna válvula equipada con actuador de acción directa (apertura por resorte):
+
+7.2 Enclavamiento de seguridad
+
+En el departamento de blanqueo no existe ningún reactor presurizado.
+
+7.2.1 Funciones de enclavamiento de seguridad del blanqueo
+
+En la planta de blanqueo no existe ninguna función de enclavamiento.

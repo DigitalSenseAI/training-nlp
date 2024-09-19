@@ -1,0 +1,96 @@
+
+5.3 Paradas prolongadas
+
+La planta de blanqueo se drena de pulpa parcial o completamente sólo para las paradas prolongadas en las que se prevea realizar trabajos de reparación o mantenimiento en los reactores, las torres y los tanques de blanqueo.
+Tras una parada prolongada, es posible que la nueva puesta en marcha de la planta deba ser realizada en una situación en la que una parte de la maquinaria ha sido sometida a una inspección periódica o trabajos de mantenimiento. Una parte de las torres, los tanques de filtrado y los tubos de soporte han sido vaciados. Las tuberías pueden contener aire, gases, vapores o agua, además de las sustancias normales del flujo del proceso.
+
+El drenaje de las torres y los reactores debe realizarse siempre desplazando la pulpa de los recipientes antes de detener el bombeo de la pulpa hacia la etapa siguiente.
+
+Torre de almacenamiento de pulpa sin blanquear
+En primer lugar, detenga la depuración y el lavado post-oxígeno y a continuación detenga la bomba de pulpa hacia la torre de almacenamiento de pulpa sin blanquear.
+Cuando ya no llegue pulpa hacia la torre de almacenamiento de pulpa sin blanquear, mantenga en marcha la bomba MC de alimentación de la etapa Da 153-26-101 y reduzca el nivel 153-LI-0004 de la torre de soporte de pulpa sin blanquear hasta aproximadamente el 15%.
+Cambie el bucle 153-EIC-0006 al modo MAN y abra la válvula al 100%.
+Cuando la carga de motor 153-EIC-0006 se reduzca por debajo del valor normal, cierre la válvula 153-EV-0006 y vuelva a poner el bucle en el modo REMOTO.
+Cuando la pulpa haya sido desplazada de la torre de etapa Da y la bomba MC de alimentación a la etapa Da haya sido detenida, detenga 153-20-002, raspador de torre de almacenamiento de pulpa sin blanquear.
+Drene la torre de almacenamiento de pulpa sin blanquear a través de la válvula manual 153-31-0003.
+Cierre la válvula manual tras el drenaje. 
+
+Torre de etapa Da
+La pulpa de la torre de etapa Da es desplazada por la bomba MC de alimentación a etapa Da 153-26-101 y a continuación la torre es vaciada hacia el lavador DD de la etapa Da.
+Cambie el bucle 153-HS-0013, permiso de productos químicos de la etapa Da, a la posición «OFF».
+Cambie los bucles 153-EIC-0006 y 153-QIC-0022 al modo MAN y abra las válvulas al 100%.
+Desplace la pulpa de la torre de etapa Da con agua caliente.
+
+Cuando la pulpa comience a ser desplazada de la torre de etapa Da, esto puede verse como una reducción de la carga del motor del raspador superior de la torre de etapa Da, 153-20-105.
+El desplazamiento de la pulpa desde el tubo de descenso de la torre de etapa Da puede verse en la presión de alimentación del lavador DD de la etapa Da. Cuando la presión de alimentación se reduce por debajo de los 0,1 bar, quiere decir que no queda pulpa en los tubos de alimentación.
+Detenga la bomba MC de alimentación de la etapa Da 153-26-101 y el mezclador de etapa Da 153-20-103. 
+Abra con cuidado las válvulas manuales 153-31-0065 y 153-31-0100 y comience a vaciar la torre de etapa Da hacia el lavador DD de la etapa Da. Mantenga en operación el lavador DD de la etapa Da. 
+El vaciado continuará hasta que el nivel de la torre de etapa Da haya alcanzado el nivel del lavador DD de la etapa Da. 
+Si queda pulpa en la torre de etapa D1, es posible diluirla abriendo la válvula manual 153-31-0062. Recuerde que 153-26-321, bomba de dilución del reactor Da/D1, debe estar en operación. 
+Cuando el nivel de la torre de etapa Da se haya reducido hasta el nivel del lavador DD, principalmente queda filtrado y pulpa diluida en el reactor. Lave el reactor y las tuberías abriendo la válvula manual 153-31-0062. 
+Cierre la válvula manual 153-31-0100. Abra la válvula manual 153-31-0030 y drene el resto del contenido de la torre de etapa Da al desagüe. 
+Cierre las válvulas 153-31-0062, 153-31-0065 y 153-31-0030.
+Ahora puede detener el raspador superior de la torre de etapa Da 153-20-105.
+Continúe la parada de la planta de blanqueo de conformidad con las instrucciones del capítulo anterior. 
+
+Torre de etapa EP
+La pulpa de la torre de etapa EP es desplazada por la bomba MC de alimentación a etapa EP 153-26-201 y a continuación la torre es vaciada hacia el lavador DD de la etapa EP.
+Cambie el bucle 153-HS-0194, permiso de productos químicos de la etapa EP, a la posición «OFF». Cuando no se envíe ninguna cantidad de peróxido de hidrógeno hacia el sistema, se debe cerrar la válvula 153-31-0134 y abrir la válvula de vaciado 153-31-0136, con el fin de impedir que el peróxido penetre en la etapa EP.
+Mantenga en operación el tornillo del lavador DD de la etapa Da y abra la válvula de dilución 153-HI-0132 aproximadamente un 50-100%.
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa EP, 153-PIC-0182 al modo MAN y abra la válvula al 50-100%.
+Desplace la pulpa de la torre de etapa EP con filtrado. 
+Detenga el tornillo del lavador DD de la etapa Da.
+Detenga la bomba MC de alimentación de etapa EP, 153-26-201. 
+Abra con cuidado las válvulas manuales 153-31-0150 y 153-31-0153 y comience a vaciar la torre de etapa EP hacia el lavador DD de la etapa EP. Mantenga en operación el lavador DD de la etapa EP. 
+El vaciado continuará hasta que el nivel de la torre de etapa EP haya alcanzado el nivel del lavador DD de la etapa EP. 
+Si queda pulpa en la torre de etapa EP, es posible diluirla abriendo la válvula manual 153-31-0147. Recuerde que 153-26-420, bomba de dilución de la torre de etapa EP/P, debe estar en operación. 
+Cuando el nivel de la torre de etapa EP se haya reducido hasta el nivel del lavador DD, principalmente queda filtrado y pulpa diluida en el reactor. Lave el reactor y las tuberías abriendo la válvula manual 153-31-0147. 
+Cierre la válvula manual 153-31-0153. Abra la válvula manual 153-31-0154 y drene el resto del contenido de la torre de etapa EP al desagüe. 
+Cierre las válvulas 153-31-0150, 153-31-0147 y 153-31-0154.
+Ahora puede detener el raspador superior de la torre de etapa EP 153-20-205.
+Continúe la parada de la planta de blanqueo de conformidad con las instrucciones del capítulo anterior. 
+
+Torre de etapa D1
+La pulpa de la torre de etapa D1 es desplazada por la bomba MC de alimentación a etapa D1, 153-26-301, y a continuación el reactor es vaciado hacia el lavador DD de la etapa D1.
+Cambie el bucle 153-HS-0287, permiso de productos químicos de la etapa D1, a la posición «OFF».
+Mantenga en operación el tornillo del lavador DD de la etapa EP y abra la válvula de dilución 153-HI-0232 aproximadamente un 50-100%.
+
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa D1, 153-PIC-0278 al modo MAN y abra la válvula al 50-100%.
+Desplace la pulpa de la torre de etapa D1 con filtrado. 
+Detenga el tornillo del lavador DD de la etapa EP. 
+Detenga la bomba MC de alimentación a etapa D1, 153-26-301. 
+Abra con cuidado las válvulas manuales 153-31-0222 y 153-31-0225 y comience a vaciar la torre de etapa D1 hacia el lavador DD de la etapa D1. Mantenga en operación el lavador DD de la etapa D1. 
+El vaciado continuará hasta que el nivel de la torre de etapa D1 haya alcanzado el nivel del lavador DD de la etapa D1. 
+Si queda pulpa en la torre de etapa D1, es posible diluirla abriendo la válvula manual 153-31-0219. Recuerde que 153-26-321, bomba de dilución de la torre de etapa Da/D1, debe estar en operación. 
+Cuando el nivel de la torre de etapa D1 se haya reducido hasta el nivel del lavador DD, principalmente queda filtrado y pulpa diluida en el reactor. Lave el reactor y las tuberías abriendo la válvula manual 153-31-0219.
+Cierre la válvula manual 153-31-0225. Abra la válvula manual 153-31-0226 y drene el resto del contenido de la torre de etapa D1 al desagüe. 
+Cierre las válvulas 153-31-0219, 153-31-0222 y 153-31-0226. 
+Ahora puede detener el raspador superior de la torre de etapa D1, 153-20-305.
+Continúe la parada de la planta de blanqueo de conformidad con las instrucciones del capítulo anterior. 
+
+Torre de etapa P
+La pulpa de la torre de etapa P es desplazada por la bomba MC de alimentación a etapa P 153-26-401 y a continuación la torre es vaciada hacia el lavador DD de la etapa P.
+Cambie el bucle 153-HS-0394, permiso de productos químicos de la etapa P, a la posición «OFF». 
+Mantenga en operación el tornillo del lavador DD de la etapa D1 y abra la válvula de dilución 153-HI-0332 aproximadamente un 50-100%.
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa P, 153-PIC-0378 al modo MAN y abra la válvula al 50-100%.
+Desplace la pulpa de la torre de etapa P con filtrado. 
+Detenga el tornillo del lavador DD de etapa D1. 
+Detenga la bomba MC de alimentación a etapa P, 153-26-401. 
+Abra con cuidado las válvulas manuales 153-31-0298 y 153-31-0301 y comience a vaciar la torre de etapa P hacia el lavador DD de la etapa P. Mantenga en operación el lavador DD de la etapa P. 
+El vaciado continuará hasta que el nivel de la torre de etapa P haya alcanzado el nivel del lavador DD. 
+Si queda pulpa en la torre de etapa P, es posible diluirla abriendo la válvula manual 153-31-0325. Recuerde que 153-26-420, bomba de dilución de la torre de etapa EP/P, debe estar en operación. 
+Cuando el nivel de la torre de etapa P se haya reducido hasta el nivel del lavador DD, principalmente queda filtrado y pulpa diluida en el reactor. Lave el reactor y las tuberías abriendo la válvula manual 153-31-0325.
+Cierre la válvula manual 153-31-0301. Abra la válvula manual 153-31-0302 y drene el resto del contenido de la torre de etapa P al desagüe. 
+Cierre las válvulas 153-31-0325, 153-31-0298 y 153-31-0302.
+Ahora puede detener el raspador superior de la torre de etapa P, 153-20-405.
+Continúe la parada de la planta de blanqueo de conformidad con las instrucciones del capítulo anterior. 
+
+Tubos de soporte
+Las reglas generales aplicables al drenaje de los tubos de soporte son:
+Ajuste el nivel del tubo de soporte para que se drene gradualmente hasta el 25% durante la operación. Detenga la alimentación de pulpa al tubo de soporte.
+Abra las válvulas de dilución al 50-100% hasta que el contenido del tubo de soporte se diluya.
+Detenga la bomba MC.
+Abra la válvula de drenaje del tubo de soporte.
+
+Tanques de filtrado
+La regla general a la hora de preparar los tanques de filtrado para una parada es reducir gradualmente el nivel del tanque durante la operación, hasta el 30%. No debe fluir ninguna agua de sustitución hacia el tanque. Si se debe vaciar el tanque, el resto de su contenido puede drenarse al desagüe durante la parada.

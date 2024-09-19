@@ -1,0 +1,32 @@
+
+1. GENERALIDADES
+
+Este documento describe la operación del departamento de blanqueo. Para una operación segura y óptima es necesario seguir estas instrucciones. Los usuarios del proceso deben familiarizarse también con los siguientes documentos:
+
+Descripciones de procesos (documentos 1000-153-P40-105207)
+Planos funcionales (documentos 1000-153-I50-107080, 1000-153-I50-107081, 1000-153-I50-107082, 1000-153-I50-107083, 1000-153-I50-107084, 1000-153-I50-111589)
+Diagramas de procesos e instrumentación (documentos 1000-153-P20-101450, 1000-153-P20-101451, 1000-153-P20-101452, 1000-153-P20-101453, 1000-153-P20-101454, 1000-153-P20-101455)
+Planos de disposición
+
+En este documento, los equipos y conexiones del proceso se describen tal y como se utilizarán durante la puesta en marcha de la planta. Este manual de operación tiene como fin servir como material de capacitación para los operadores antes de la puesta en marcha. Más adelante, puede usarse como una introducción para nuevos empleados acerca de los procesos y la estrategia de operación de la planta. Sin embargo, esto requiere que los posibles cambios del proceso o de las conexiones del proceso se actualicen en este manual.
+
+El Capítulo 2, «Datos técnicos», describe el departamento de blanqueo, que se trata en este manual de operación. En este capítulo se tratan los principales datos técnicos y operacionales de este departamento. 
+
+El Capítulo 3, «Puesta en marcha», describe las operaciones previas a la puesta en marcha, la puesta en marcha con el sistema vacío y la puesta en marcha con pulpa. En este capítulo se explica qué tipo de pruebas y revisiones deben realizarse antes de la puesta en marcha con el fin de poner en marcha el proceso de forma segura y confiable.
+
+El Capítulo 4, «Operación normal», describe las operaciones durante la producción normal, por ejemplo el control y la supervisión del licor de lavado.
+ 
+El Capítulo 5, «Paradas», describe las operaciones realizadas durante las paradas breves y prolongadas. También trata sobre las perturbaciones de operación y las posibles averías del equipo de proceso. Este capítulo también contiene instrucciones de drenaje para los tanques y reactores.
+
+El Capítulo 6, «Seguridad», describe los elementos de seguridad que deben tomarse en cuenta durante la operación y los trabajos de mantenimiento.
+
+El Capítulo 7, «Seguridad del departamento de blanqueo», describe en particular los aspectos de seguridad relacionados con este departamento.
+
+Este manual de operación describe las operaciones de la planta en su conjunto. Las instrucciones más específicas y detalladas para la operación de los equipos de la planta se proporcionan en los manuales específicos de operación y mantenimiento de los equipos. 
+
+Existen manuales específicos de operación y mantenimiento de los proveedores de equipos para:
+Lavadores DD, DD5090-10
+Raspador de descarga ADS-6500
+Mezcladores de productos químicos AC50-30
+Raspadores superiores de torre ATS-MC84, ATS-MC68, ATS-MC72
+Lavador de gases de la planta de blanqueo GSC 2100/1300

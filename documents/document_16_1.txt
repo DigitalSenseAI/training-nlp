@@ -1,0 +1,80 @@
+
+4. OPERACIÓN NORMAL
+
+Los procedimientos de la operación normal consisten en el control y la supervisión de la producción, la carga de productos químicos, la temperatura y el licor de lavado. Estos elementos se describen en los capítulos siguientes.
+
+4.1 Control de la producción
+
+La producción de la planta de blanqueo se monitorea con el bucle 153-UI-0001, que calcula la producción basándose en el caudal medido hacia la etapa Da, 153-FIC-0005, y en la consistencia medida, 153-QIC-0022. Como alternativa, el operador puede indicar la consistencia utilizada para los cálculos de producción.
+
+Los retardos largos son típicos en el proceso de blanqueo. Estos retardos varían en las distintas etapas de blanqueo y van de los 80 minutos a las 2 horas. El tiempo de retención total de la pulpa en las torres de blanqueo operando a plena producción es de más de 6 horas. Debido a estos retardos largos, las medidas de control deben ser realizadas de forma razonada y el efecto real de cada maniobra debe monitorearse antes de tomar la medida siguiente.
+
+El blanqueo puede operarse de forma bastante independiente de la depuración o el secado de la pulpa, dadas las grandes capacidades de almacenamiento de pasta no blanqueada y blanqueada. Sin embargo, a largo plazo la producción debe ser ajustada de modo que las tasas de producción de los distintos departamentos sean iguales. Las posibilidades de realizar variaciones de producción dentro de la planta de blanqueo son nulas. En la planta de blanqueo no existen almacenamientos intermedios.
+
+Para una operación idónea, el proceso requiere supervisión. En la sala de control, el monitoreo del proceso se realiza mediante las pantallas del sistema de control. Las pantallas muestran aspectos como las mediciones en línea, las posiciones de las válvulas, el consumo de potencia de los motores y la evolución de distintos parámetros del proceso, etc.
+
+El conocimiento completo del proceso se obtiene a través de las pantallas, las inspecciones de campo en el área de la planta de blanqueo y los análisis y mediciones de laboratorio.
+
+Los parámetros más importantes a consultar son las características relacionadas con la calidad de la pulpa. 
+
+Por ejemplo, se deben monitorear los siguientes parámetros en la sala de control:
+Pulpa a torre de etapa Da, kappa 153-AI-0019 
+Pulpa a torre de etapa Da, blancura 153-QI-0021 
+Pulpa a torre de etapa Da, temperatura 153-TI-0030
+Pulpa a torre de etapa Da, pH de filtrado 153-QI-0020
+Pulpa después de la torre de etapa Da, kappa 153-AI-0028 
+Pulpa después de la torre de etapa Da, blancura 153-QI-0029 
+pH de filtrado después de la etapa Da, 153-QI-0157
+Pulpa a torre de etapa EP, temperatura 153-TIC-0196
+Pulpa después de la torre de etapa EP, kappa 153-QI-0191
+Pulpa después de la torre de etapa EP, blancura 153-QI-0193
+pH de filtrado tras la etapa EP, 153-QI-0192
+Pulpa a torre de etapa D1, temperatura 153-TI-0294
+Residuos de dióxido de cloro tras la etapa D1, 153-QI-0357
+pH de filtrado después de la etapa D1, 153-QI-0286
+Pulpa a la torre de etapa P, blancura 153-QI-0386
+Pulpa a la torre de etapa P, temperatura 153-TIC-0388
+pH de filtrado después de la etapa P, 153-QI-0385
+Blancura de la pulpa blanqueada, 153-QI-0510
+pH de filtrado de pulpa blanqueada, 153-QIC-0509
+
+Otros parámetros importantes a monitorizar son:
+Nivel de pulpa en la torre de almacenamiento de pulpa sin blanquear
+Nivel de pulpa en la torre de almacenamiento de pulpa blanqueada
+Bombeo MC y niveles en los tubos de soporte
+Cargas de motor en los equipos
+Consumo de suministros
+Caudal, pH y temperatura de los efluentes ácidos y alcalinos
+Operación del lavador de gases de la planta de blanqueo
+
+Se realizan rondas de inspección regulares por el departamento. Durante estas rondas, se monitorean las condiciones mecánicas de los equipos y de los lavadores. Debe prestarse atención a los siguientes aspectos:
+Funcionamiento de los sellos
+Flujos de agua de sellado y agua de enfriamiento
+Accionamientos y cojinetes
+Mediciones locales de presión y temperatura
+Mediciones locales de caudal
+Fugas y reboses
+
+Además de estas comprobaciones, los análisis regulares en el laboratorio proporcionan información acerca del proceso y la calidad de la pulpa.
+
+4.2 Productos químicos
+
+La tasa de producción del departamento de blanqueo depende de la alimentación a la etapa Da. Sin embargo, el resultado del blanqueo se controla separadamente en cada etapa de blanqueo a partir de datos como el pH, el número de Kappa, la blancura y las mediciones de residuos, como base de la alimentación de productos químicos. La tasa de producción y una carga de productos químicos específica indicada por el operador (en kg/tSa) se utilizan para la alimentación de productos químicos al proceso. La carga de productos químicos indicada por el operador y la producción medida se utilizan en el sistema DCS para calcular el caudal de cada producto químico enviado a las distintas etapas de blanqueo.
+
+Etapa Da
+La carga de dióxido de cloro se basa en la carga indicada por el operador y la producción. La alimentación de bisulfito de sodio a la salida de la torre de etapa Da también se controla según la carga indicada por el operador y la producción. La carga de ácido sulfúrico al proceso se basa en la carga indicada por el operador y la producción. Como alternativa, puede usarse el valor de pH para la dosificación de ácido sulfúrico.
+
+Etapa EP
+La carga de peróxido de hidrógeno depende de la carga indicada por el operador y la producción. 
+Cuando no se carga peróxido de hidrógeno al sistema, es necesario cerrar la válvula de cierre 153-31-0134 y abrir y bloquear en la posición abierta la válvula de vaciado 153-31-0136, para evitar el ingreso de peróxido de hidrógeno en el proceso. La carga de álcali (hidróxido de sodio) depende de la carga indicada por el operador y la producción.
+
+Etapa D1
+Es posible usar ácido sulfúrico para el ajuste del pH antes de la etapa D1. La carga de ácido depende de la carga indicada por el operador y la producción.
+La carga de dióxido de cloro se basa en la carga indicada por el operador y la producción. La alimentación de bisulfito de sodio a la salida de la torre de etapa D1 también se controla según la carga indicada por el operador y la producción.
+
+Etapa P
+La carga de peróxido de hidrógeno depende de la carga indicada por el operador y la producción. La carga de álcali (hidróxido de sodio) depende de la carga indicada por el operador y la producción.
+
+Pulpa blanqueada
+Es posible usar ácido sulfúrico para el ajuste del pH después del blanqueo. La carga de ácido sulfúrico al proceso se basa en la carga indicada por el operador y la producción. Como alternativa, puede usarse el valor de pH para la dosificación de ácido sulfúrico.
+La blancura final de la pulpa blanqueada se mide en la línea de alimentación a las torres de almacenamiento de pulpa blanqueada mediante el bucle 153-QI-0510.

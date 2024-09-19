@@ -1,0 +1,129 @@
+
+2. DATOS TÉCNICOS
+
+Las siguientes instrucciones de proceso describen el proceso de blanqueo Da-EP-D1-P, que forma parte del proceso de pulpado de la línea de fibra. El blanqueo en este documento comprende un área que comienza en el torre de almacenamiento de pulpa sin blanquear (153-21-001) y termina con el bombeo hacia la torre HD de pulpa blanqueada, 153-21-503. La depuración precede al blanqueo. Los procesos posteriores son el secado de la pulpa o la fabricación del papel. El lavador de gases de la planta de blanqueo también se describe en este documento.
+
+Esta descripción contiene información detallada de ingeniería y se usa junto con los diagramas de procesos e instrumentación y los planos funcionales para la ingeniería de control de procesos y para la configuración del sistema DCS de la planta.
+
+2.1 Especificaciones de las máquinas principales
+
+Las máquinas principales se especifican en las listas de equipos separadas.
+
+2.2 Datos de operación del proceso principal
+
+Capacidad: 4090 tSA/día
+Número de Kappa a blanqueo: 10-11	
+Consistencia de la pulpa en reactores y torres: 10-12%
+Factor de dilución 1-2 m3/tSa
+Temperatura en la etapa Da: 88-92 °C
+Temperatura en la etapa EP: 83-87 °C
+Temperatura en la etapa D1: 72-76 °C
+Temperatura en la etapa P: 78-82 °C
+Efluente ácido del blanqueo: 8-10 m3/tSa
+Efluente alcalino del blanqueo: 4-6 m3/tSa
+
+2.3 Equipos principales del proceso
+
+El departamento de blanqueo se compone de los siguientes equipos principales:
+
+Raspador de descarga de la torre de almacenamiento de pulpa sin blanquear, ADS-6500
+Bombeo MC a etapas de blanqueo, MC250-600
+Mezcladores de productos químicos AC50-30
+Lavadores DD de blanqueo, DD5090-10
+Raspadores superiores de torre ATS-MC84, ATS-MC68, ATS-MC72
+Lavador de gases de la planta de blanqueo GSC 2100/1300
+
+2.3.1 Raspador de descarga de la torre de almacenamiento de pulpa sin blanquear
+
+El raspador de descarga de la torre de almacenamiento de pulpa sin blanquear (ADS-6500) facilita la descarga uniforme de la pulpa desde la torre de almacenamiento de pulpa sin blanquear. El raspador de descarga está equipado con una bomba de aceite para fines de lubricación. Existe un interruptor de presión de aceite 153-PS-0012, que detiene el raspador si la presión del aceite es insuficiente. El raspador de descarga de la torre de almacenamiento de pulpa sin blanquear se muestra en la siguiente imagen.
+Figura 1: Raspador de descarga de la torre de almacenamiento de pulpa sin blanquear
+
+2.3.2 Bombeo MC hacia la etapa Da
+
+Se utiliza una bomba MC (del inglés «Medium Consistency», consistencia media) MC250-600 para bombear la pulpa con una consistencia de aproximadamente el 9-10% desde la torre de almacenamiento de pulpa sin blanquear hacia la etapa Da. La siguiente imagen muestra este sistema de bombeo.
+Figura 2: Bombeo MC hacia la etapa Da
+
+2.3.3 Bombeo MC hacia otras etapas de blanqueo
+
+El resto del bombeo MC de blanqueo utiliza un sistema de bombeo de tubo de soporte que se muestra en la imagen que aparece a continuación.
+Figura 3: Solución de bombeo MC con tubo de soporte
+
+2.3.4 Mezcladores de productos químicos
+
+En el área de blanqueo, los mezcladores de productos químicos son de tipo AC50-30 y están hechos de titanio. Estos mezcladores mezclan una solución de dióxido de cloro con la pulpa de alimentación en las etapas D. En la siguiente imagen se muestra un mezclador de productos químicos.
+Figura 4: Mezclador de productos químicos
+
+2.3.5 Lavadores de desplazamiento de tambor
+
+El lavado de blanqueo tiene lugar en lavadores de desplazamiento de tambor de tipo DD5090-10. Estos lavadores de blanqueo cuentan con una sola etapa de lavado.
+
+Accionamiento
+El accionamiento principal de los lavadores DD es hidráulico. Consiste en un sistema de control, un motor eléctrico, un tanque de aceite, una bomba de aceite y un motor hidráulico unido al eje del tambor. La mayoría de las partes, el sistema de control, el motor eléctrico, el tanque de aceite y la bomba de aceite, están situadas en una cabina insonorizada. El motor hidráulico está situado en el eje del lavador DD.
+
+Un motor eléctrico, que gira a una velocidad fija, acciona la bomba de aceite. El caudal de aceite desde la bomba es controlado por una válvula proporcional que ajusta el caudal de acuerdo con la señal recibida del sistema de control del proceso.
+ 
+Se utilizan mangueras flexibles para conectar entre sí la bomba de aceite y el motor hidráulico. En una manguera, el aceite fluye de la bomba al motor. El aceite fluye hacia el interior de los cilindros del motor y presiona radialmente los pistones hacia el anillo de levas, que está diseñado de una manera tal que el eje del motor gira y acciona el eje del lavador DD. El caudal del aceite hacia el motor controla el régimen del motor. Un aumento del caudal de aceite significa un mayor régimen del motor y viceversa. La segunda manguera hidráulica se usa como línea de retorno del aceite. Una parte del caudal de retorno es purgada hacia el tanque, donde es enfriado y filtrado. Existe una tercera manguera que regresa el aceite de drenaje del motor al tanque de aceite.
+
+El torque del tambor del lavador DD se calcula en el sistema de control de proceso a partir de la presión del aceite hidráulico medida tras pasar por la bomba de aceite. 
+
+Tambor
+El tambor giratorio, con un diámetro de 5000 mm y una longitud de 9000 mm, está dividido por barras en la dirección axial para formar cajas con una anchura aproximada de 300 mm. El fondo de cada caja cuenta con una placa de tamizado que está montada sobre la superficie del tambor. El licor sucio es desplazado a través de la placa de tamizado hacia los canales de recolección de filtrado situados entre las cajas y la superficie del tambor. La altura de la caja por encima de la placa de tamizado del lavador DD de pulpa cruda es de 50 mm, lo que corresponde al espesor de la malla de pulpa.
+
+Elementos de sellado
+El tambor está rodeado por una carcasa rígida. Los elementos de sellado están sujetos a la carcasa para mantener separadas la caja de alimentación de pulpa y la sección de descarga. También la zona de lavado y la sección de descarga están separadas por un elemento de sellado. El elemento de sellado es una barra más ancha que las cajas y está instalado en la circunferencia del tambor en la dirección axial. La barra se fija con los cilindros de control y un accionamiento de engranajes en el exterior de la carcasa. El elemento de sellado se ajusta lo más cerca posible de las barras de distribución de las cajas, con el fin de sellar las distintas etapas de operación. El filtrado desplazado es transferido de los canales de recolección de filtrado a través de una caja de recolección de las válvulas de los extremos y de ahí a las tuberías de circulación de filtrado. 
+
+Caja de alimentación
+La pulpa llega desde las etapas de blanqueo hacia los lavadores con una consistencia de aproximadamente el 10-12%. La pulpa es alimentada a la caja de alimentación de los lavadores a través de cuatro tuberías.  
+
+La anchura de la caja de alimentación es la misma que la longitud del tambor del lavador DD y la presión de alimentación se mantiene a 0,20–0,40 bar, lo que contribuye al llenado de las cajas. Debido a la presión de alimentación, el licor libre es presionado hacia fuera a través de la placa de tamizado y la consistencia de la torta de pulpa aumenta en 1 ó 2 unidades de porcentaje. En la salida de la caja de alimentación, una cuchilla elimina el exceso de pulpa. Así se iguala el espesor de la torta de pulpa para nivelarlo en altura con las barras de distribución situadas antes de la zona de lavado. 
+
+La torta de pulpa con un espesor de 50 mm entra en la zona de lavado mientras el tambor gira. La torta de pulpa tiene un espesor y una porosidad uniformes y presenta una consistencia del 10-12%.
+Figura 5: Lavador de desplazamiento de tambor
+
+Descarga de pulpa
+Tras la zona de vacío, la torta de pulpa es descargada con un impulso de aire a presión. Una vez que la torta de pulpa ha atravesado el sector de vacío, el aire a presión es conducido por el canal de filtrado situado bajo la placa perforada y retira la torta de pulpa de la superficie del tambor. La pulpa cae sobre el transportador de descarga, donde puede ser diluida. La pulpa cae por gravedad desde el transportador de descarga hacia el siguiente tubo de soporte de etapa de alimentación.
+
+El accionamiento estándar del transportador de descarga es un engranaje cilíndrico conectado con un motor de cortocircuito transferido por un acoplamiento.
+
+Tras la zona de descarga, el tambor es lavado con duchas de agua a presión antes de girar de nuevo hasta la zona de alimentación. La presión de las duchas de agua de lavado es elevada hasta aproximadamente 10 bar por las bombas de lavado de placa perforada. 
+
+La Figura 4 muestra los grupos de montaje del lavador DD, divididos en módulos de construcción más pequeños.
+Figura 6: Lavador de desplazamiento de tambor, componentes principales
+
+Torres de blanqueo
+
+Todas las torres de blanqueo son torres atmosféricas de flujo ascendente con un fondo cónico. En la parte superior, existe un raspador superior que raspa la pulpa hacia el lavado. Las torres de las etapas Da y D1 están revestidas de cerámica debido al uso de dióxido de cloro en estas etapas. Las dimensiones de las torres son las siguientes:
+
+Da:  V = 2806 m3, H = 62 m, D = 8,4 m, ATS-MC84
+EP:  V = 1897 m3, H = 62 m, D = 6,8 m, ATS-MC68
+D1:  V = 1899 m3, H = 62 m, D = 6,8 m, ATS-MC68
+P:  V = 2110 m3, H = 62 m, D = 7,2 m, ATS-MC72
+
+La Figura 7 muestra una torre de blanqueo y un raspador superior.
+Figura 7: Torre de blanqueo y raspador superior
+
+2.3.7 Lavador de gases de la planta de blanqueo
+
+ Un lavador de gases Venturi (de tipo GSC 2100/1300) lava los gases de escape alcalinos y ácidos para eliminar los residuos de productos químicos antes de liberar los gases a la atmósfera. 
+
+2.4 Operación y control  
+
+Los procesos de puesta en marcha, operación y parada del blanqueo se controlan desde la sala de control central de la planta. Los lavadores DD también cuentan con cajas de control locales. 
+
+El control del proceso incluye condiciones normales de enclavamiento, bucles de control y controles de secuencia. Además de ello, los sistemas de agua de sellado tienen, por ejemplo, manómetros locales para ajustar los caudales en el campo.
+ 
+Las siguientes herramientas de comunicación y funciones internas entre el operador y el sistema de control están incluidas en el control del proceso en su conjunto: 
+Pantallas de proceso
+Pantallas de parámetros
+Alarmas
+Pantallas de tendencias
+Pantallas de bucle de control 
+Pantallas de bucle de medición 
+Configuración de bucles de instrumentos, por ejemplo enclavamientos y controles
+
+
+2.4.1 Control local del lavador DD  
+
+Los lavadores DD cuentan con un panel de operación local para girar el tambor del lavador DD durante una parada o para eliminar posibles atascos. El sistema de control cuenta con un interruptor que permite seleccionar el lugar de operación «DCS» o «Local» del lavador DD.  
+
+En el caso del funcionamiento local, existe un interruptor en el campo que permite seleccionar el sentido de giro. Si el selector del lugar de operación de la sala de control se encuentra en la posición de manejo local, es posible rotar hacia delante o hacia atrás el tambor con una llave sin bloqueo. La velocidad de giro se ajusta en la sala de control. 

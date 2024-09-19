@@ -1,0 +1,81 @@
+
+Etapa D1
+Diluya el tubo de soporte de alimentación de la etapa D1 y el tubo de alimentación de pulpa hacia la torre de etapa D1.
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa D1, 153-PIC-0278 al modo MAN y abra la válvula al 50-100%. Diluya el tubo de soporte durante un tiempo breve, aproximadamente 3–5 minutos.
+Cambie el bucle 153-HS-0287, permiso de productos químicos de la etapa D1, a la posición «OFF».
+Las válvulas de ácido sulfúrico 153-HS-0285 y 153-FIC-0283 se cierran.
+Las válvulas de agua de dióxido de cloro 153-HS-0293 y 153-FIC-0292 se cierran.
+La válvula de control de bisulfito de sodio 153-FIC-0284 se cierra.
+Detenga 153-26-301, bomba MC de alimentación a etapa D1.
+El control de nivel 153-LIC-0277 se cierra.
+La válvula de mezclador de etapa D1, 153-HS-0291, se cierra.
+Detenga el mezclador de etapa D1 153-20-303.
+
+El raspador superior de la torre de etapa D1, 153-20-305, se mantiene siempre en funcionamiento durante las paradas breves.
+Diluya el tubo de descenso de la torre de etapa D1 y el tubo de alimentación hacia el lavador DD de la etapa D1.
+Cambie 153-HI-0295, dilución al tubo de descenso de la torre de etapa D1, y 153-HI-0296, dilución a la alimentación del lavador DD de la etapa D1, el modo MAN y abra la válvula al 50-100%. Diluya el tubo de descenso y el tubo de alimentación durante algunos minutos.
+Cuando la presión de alimentación 153-PIC-0324 de la caja de alimentación del lavador DD de la etapa D1 se reduzca por debajo de 0,1 bar, cierre las válvulas de dilución 153-HI-0295 y 153-HI-0296.
+Detenga el lavador DD de etapa D1, 153-20-313.
+Las válvulas 153-HS-0301 y 153-HS-0302 se cierran.
+El agua de sellado hacia el lavador DD de la etapa D1, 153-HI-0360, se cierra después de un retardo de 60 min.
+El lavado giratorio del lavador DD de la etapa D1, 153-HS-0365, se cierra después de un retardo de 120 segundos.
+El aire de retirada de la torta del lavador DD de D1, 153-HS-0317, se cierra.
+Las válvulas de agua de lavado del lavador DD de la etapa D1, 153-FIC-0330 y 153-FIC-0337, se cierran.
+Detenga el tornillo del lavador DD de la etapa D1, 153-23-314; la válvula de lavado de la placa perforada 153-HS-0334 se cierra.
+Detenga 153-26-316, bomba de lavado del tambor del lavador DD de etapa D1.
+La dilución del tornillo del lavador DD de la etapa D1, 153-HI-0332, se cierra.
+Detenga la bomba de dilución del reactor Da/D1, 153-26-321, si no se necesita; la válvula 153-HI-0370 se cierra.
+Detenga la bomba de filtrado más sucio de la etapa D1, 153-26-319; la válvula 153-HI-0359 se cierra.
+Detenga la bomba de filtrado más limpio de la etapa D1, 153-26-318; la válvula 153-HI-0358 se cierra.
+
+Etapa P
+Diluya el tubo de soporte de alimentación de la etapa P y el tubo de alimentación de pulpa hacia el reactor P.
+Cambie el bucle de dilución de tubo de soporte de alimentación de etapa P, 153-PIC-0378 al modo MAN y abra la válvula al 50-100%. Diluya el tubo de soporte durante un tiempo breve, aproximadamente 3–5 minutos.
+Cambie el bucle 153-HS-0394, permiso de productos químicos de la etapa P, a la posición «OFF».
+Las válvulas de peróxido de hidrógeno 153-HS-0384 y 153-FIC-0383 se cierran.
+Detenga 153-26-401, bomba MC de alimentación a etapa P.
+El nivel 153-LIC-0377 y la válvula de cierre 153-HS-0490 se cierran.
+
+El raspador superior de la torre de etapa P, 153-20-405, se mantiene siempre en funcionamiento durante las paradas breves.
+Diluya el tubo de descenso de la torre de etapa P y el tubo de alimentación hacia el lavador DD de la etapa P.
+Cambie 153-HI-0389, dilución al tubo de descenso de la torre de etapa P, y 153-HI-0390, dilución a la alimentación del lavador DD de la etapa P, el modo MAN y abra la válvula al 50-100%. Diluya el tubo de descenso y el tubo de alimentación durante algunos minutos.
+Cuando la presión de alimentación 153-PIC-0424 de la caja de alimentación del lavador DD de la etapa P se reduzca por debajo de 0,1 bar, cierre las válvulas de dilución 153-HI-0389 y 153-HI-0390.
+Detenga el lavador DD de etapa P, 153-20-413.
+Las válvulas 153-HS-0401 y 153-HS-0402 se cierran.
+El agua de sellado hacia el lavador DD de la etapa P, 153-HI-0460, se cierra después de un retardo de 60 min.
+El lavado giratorio del lavador DD de la etapa P, 153-HS-0465, se cierra después de un retardo de 120 segundos.
+El aire de retirada de la torta del lavador DD de P, 153-HS-0417, se cierra.
+Las válvulas de agua de lavado del lavador DD de la etapa P, 153-FIC-0430 y 153-FIC-0437, se cierran.
+Detenga el tornillo del lavador DD de la etapa P, 153-23-414; la válvula de lavado 153-HS-0434 se cierra. 
+Detenga 153-26-416, bomba de lavado del tambor del lavador DD de etapa P.
+La dilución del tornillo del lavador DD de la etapa P, 153-HI-0432, se cierra.
+Detenga la bomba de dilución de la torre de etapa EP/P, 153-26-420, si no se necesita; la válvula 153-HI-0470 se cierra.
+Detenga la bomba de filtrado más sucio de la etapa P, 153-26-419; la válvula 153-HI-0458 se cierra.
+Detenga la bomba de filtrado más limpio de la etapa P, 153-26-418; la válvula 153-HI-0457 se cierra.
+
+Detenga la bomba de vacío del lavador DD de blanqueo 153-24-425.
+153-HS-0453, 153-HS-0353, 153-HS-0253 y 153-HS-0153, aires de escape de los lavadores DD de blanqueo hacia la bomba de vacío de blanqueo ya están cerradas.
+
+Alimentación de pulpa a las torres de almacenamiento de pulpa blanqueada
+Diluya el tubo de soporte de pulpa blanqueada y el tubo de alimentación de pulpa a la torre de pulpa blanqueada.
+Cambie el bucle de dilución de tubo de soporte de pulpa blanqueada, 153-PIC-0513, al modo MAN y abra la válvula al 50-100%. Diluya el tubo de soporte durante algún tiempo, aproximadamente 3–5 minutos, hasta que la presión 153-PIC-0513 se reduzca claramente por debajo del nivel normal.
+Cambie el bucle 153-HS-0504, permiso de productos químicos de pulpa blanqueada, a la posición «OFF».
+Detenga 153-26-501, bomba MC de alimentación a torre HD de pulpa blanquear.
+El control de nivel 153-LIC-0500 se cierra.
+Las válvulas de ácido sulfúrico 153-HS-0506 y 153-FIC-0505 se cierran.
+153-HS-0183, agua de sellado a las bombas MC de blanqueo, se cierran tras un retardo de 5 minutos.
+
+Transferencia de productos químicos
+Tras la parada de la planta de blanqueo, una vez cesado el consumo de productos químicos, es posible detener las bombas de transferencia de productos químicos. Recuerde que las bombas que sean comunes con otros departamentos sólo pueden ser detenidas si también se detienen los otros departamentos que utilicen los productos químicos en cuestión.
+Cuando no se carga peróxido de hidrógeno al sistema, es necesario cerrar las válvulas de cierre de la tubería y abrir las válvulas de vaciado manual para evitar el ingreso de peróxido de hidrógeno en el sistema. 
+
+Lavador de gases de la planta de blanqueo
+El lavador de gases de la planta de blanqueo puede detenerse cuando la planta de blanqueo haya sido detenida y si los gases ventilados no contienen restos de dióxido de cloro, cloro ni bisulfito de sodio.
+Normalmente, el sistema de recolección de gases ventilados se mantiene en operación. El lavador de gases de la planta de blanqueo sólo es detenido para trabajos de mantenimiento o para paradas prolongadas que supongan el drenaje de las torres de blanqueo.
+
+Cierre 153-FIC-0905 y 153-FIC-0907, las válvulas de control de caudal de productos químicos del lavador de gases.
+Detenga la bomba de circulación del lavador de gases 153-26-601; la válvula 153-HI-0904 se cierra.
+Detenga la bomba de circulación del lavador de gases Venturi 153-26-602; la válvula 153-HI-0903 se cierra.
+El lavador de gases de la planta de blanqueo se drena a través de la válvula manual 153-31-0399.
+
+Si la parada es prolongada, el lavador de gases de la planta de blanqueo debe ser lavado con agua limpia, que se circula por el lavador de gases con las bombas de circulación del lavador de gases. El agua de lavado para lavar el lavador de gases puede suministrarse a través de la válvula 153-KS-0906.

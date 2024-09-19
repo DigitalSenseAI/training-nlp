@@ -1,0 +1,56 @@
+
+Peróxido de hidrógeno 
+La concentración del peróxido de hidrógeno (H2O2) suministrado a la planta de blanqueo es del 30–50%. El peróxido de hidrógeno concentrado presenta fuertes propiedades oxidantes; es transparente e incoloro y tiene olor acre. Se trata de un compuesto no inflamable pero inestable. La descomposición del peróxido de hidrógeno libera oxígeno.
+El peróxido de hidrógeno se descompone rápidamente al contacto con la mayoría de los metales, las sales metálicas, el aceite, la grasa o la suciedad. El peróxido de hidrógeno con una concentración superior al 30% puede provocar la ignición de varias sustancias orgánicas, tales como el cuero, el aceite o la grasa. Si el aire contiene más de un 25% de peróxido de hidrógeno, la mezcla es explosiva.
+Debido a su tendencia a descomponerse, en el caso del peróxido de hidrógeno debe preverse siempre su posible expansión, por ejemplo a través de una válvula de alivio presente en la tubería.
+El contacto con las soluciones del peróxido en agua y sus vapores es irritante para la piel y las mucosas y puede causar lesiones oculares. Lave meticulosamente las salpicaduras con gran cantidad de agua y acuda a un médico.
+Use una máscara facial o lentes, guantes de goma y un traje protector como equipos de protección individual.
+
+Dióxido de cloro 
+El dióxido de cloro (ClO2) es un gas oxidante de color verdoso-amarillento oscuro, 2,4 veces más pesado que el aire y utilizado en la planta de blanqueo en forma de solución acuosa. A bajas concentraciones, presenta un olor dulce, mientras que a concentraciones elevadas su olor es nauseabundo y acre. Mezclado en el aire a una concentración de 20 cm3/m3, el dióxido de cloro puede ser mortal. El dióxido de cloro para usos técnicos contiene normalmente cloro que puede liberarse al calentarlo o reaccionar con otras sustancias. 
+El dióxido de cloro se descompone por efecto del calor. Para evitar la volatilidad, la solución no debe ser calentada por encima de los 40 °C.
+El dióxido de cloro y el aire pueden formar una solución sobre la superficie del agua que es explosiva si su concentración aumenta en exceso. Si la concentración del gas en el aire excede de un 10 por ciento en volumen, se descompone de manera violenta y explosiva. Las llamas al descubierto pueden provocar una explosión.
+El dióxido de cloro se suministra a la planta de blanqueo en forma de una solución acuosa con una concentración de 6–10 g ClO2/l.
+Lave meticulosamente las salpicaduras con gran cantidad de agua y acuda a un médico. Si el gas es inhalado, debe exponerse al sujeto inmediatamente al aire fresco.
+Use una máscara facial o lentes, guantes protectores y un traje protector como equipos de protección individual.
+Al trabajar en espacios en los que esté presente el gas, utilice una máscara de respiración adecuada para el dióxido de cloro.
+Tanto en la forma líquida como en la gaseosa, el dióxido de cloro provoca graves daños en el medio ambiente.
+
+Ácido sulfúrico 
+El ácido sulfúrico (H2SO4) es un fuerte ácido con una concentración del 93–98%. Se trata de un líquido inodoro y levemente acre, incoloro o con un leve tono amarillento o marrón. El contacto del agua con el ácido a alta concentración produce salpicaduras y calor. El ácido sulfúrico provoca quemaduras en los ojos, la piel y las mucosas.  El ácido a altas concentraciones destruye rápidamente los tejidos y quema los compuestos orgánicos. 
+Lave las salpicaduras con gran cantidad de agua y acuda a un médico. Si el gas es inhalado, debe exponerse al sujeto inmediatamente al aire fresco.
+Use una máscara facial o lentes, guantes protectores y un traje protector como equipos de protección individual.
+Al trabajar en espacios en los que esté presente el gas evaporado del ácido sulfúrico caliente, utilice una máscara de respiración adecuada.
+Al contacto con las aguas, el ácido sulfúrico provocará un choque de pH ácido y causará la muerte de los peces.
+
+Talco
+El talco se utiliza disuelto en agua en forma de una solución acuosa de aproximadamente 200 g/l.
+Lave las salpicaduras con gran cantidad de agua.
+
+Agente antiespumante 
+Los agentes antiespumantes son emulsiones de diversos tensioactivos. Son resbaladizos y pueden dar lugar a caídas. Si se los maneja repetidamente, se recomienda el uso de guantes protectores.
+Provocan agotamiento del oxígeno en las plantas de tratamiento de aguas residuales y, por tanto, la eliminación de la carga bacteriana.
+
+Bisulfito de sodio 
+El bisulfito de sodio (NaHSO3) se dosifica concentraciones de 80–100 g/l. La solución es irritante para los ojos y la piel. El bisulfito de sodio reacciona con los ácidos y el agua dando lugar a dióxido de azufre gaseoso, que irrita los ojos y las vías respiratorias.  
+Lave las salpicaduras con gran cantidad de agua y acuda a un médico. Si el gas es inhalado, debe exponerse al sujeto inmediatamente al aire fresco.
+Use una máscara facial o lentes, guantes protectores y un traje protector como equipos de protección individual. 
+Al trabajar en espacios en los que esté presente el gas liberado por la solución, es necesario utilizar una máscara de respiración adecuada.
+
+6.1.2 Productos químicos generados como productos intermedios  
+Gases de escape de la planta de cocción, la planta de lavado y la deslignificación con oxígeno
+En función de la especie de madera, el licor negro contiene disueltos trementina, metanol y gases sulfurosos tales como el sulfuro de hidrógeno, el dimetil sulfuro, el dimetil disulfuro y el metil mercaptano. Estos gases son olorosos y, a ciertas concentraciones, también tóxicos y explosivos. No permita que se produzca mezcla de aire con los gases olorosos de alta concentración liberados por la planta de cocción, dado que sus concentraciones se diluirían hasta un intervalo explosivo.
+
+Los gases de escape de la cocción al sulfito y las plantas de lavado contienen dióxido de azufre, que es irritante para los ojos y las vías respiratorias. El uso de una máscara de respiración adecuada permite trabajar en estas áreas durante unos instantes.
+En las reacciones entre el oxígeno, el licor y la pulpa se generan dióxido de carbono y pequeñas cantidades de monóxido de carbono y metanol. El monóxido de carbono es un gas tóxico.
+
+Puede producirse evaporación de gases explosivos (tales como la trementina) desde los condensados contenidos en los tanques, las tuberías y el suelo.
+El sentido del olfato se pierde en poco tiempo y la persona expuesta a este gas pierde el conocimiento. Si detecta el más mínimo olor a huevos podridos (típico del sulfuro de hidrógeno), abandone la zona inmediatamente, ventílela e intente detener el contacto del gas con el aire.
+
+Las llamas al descubierto, las chispas y fumar pueden suponer riesgo de explosión.
+Las personas expuestas al gas deben ser llevadas al aire fresco inmediatamente.
+Gases de escape de la planta de blanqueo 
+En la planta de blanqueo, puede producirse liberación de gases desde los filtrados que contienen dióxido de cloro. La concentración de cloro activo en estos gases puede ser de 200–600 mg/m3.
+Estos gases son irritantes para los ojos y las mucosas. 
+Las personas expuestas al gas deben ser llevadas al aire fresco.
+Al trabajar en espacios en los que esté presente el gas, utilice una máscara de respiración.

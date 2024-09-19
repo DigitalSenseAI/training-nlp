@@ -1,0 +1,96 @@
+
+3.2.3 Calentamiento de los lavadores DD  
+
+Los lavadores DD pueden ser calentados mediante la circulación de filtrado o agua caliente desde el tubo de soporte, a través de los reactores y hacia el lavador DD. Este calentamiento se realiza antes de que comience la alimentación de pulpa. Normalmente, los lavadores DD se calientan conjuntamente con los reactores y las torres. Los lavadores DD también pueden ser calentados mediante la alimentación con líquido a través de las tuberías de licor de lavado o a través de las boquillas de lavado de placa perforada. 
+
+El calentamiento de los lavadores DD y el llenado de los tanques de filtrado pueden combinarse. Los niveles de los tanques de filtrado pueden ajustarse durante el calentamiento en función de las necesidades. Durante el calentamiento, la válvula de drenaje del tubo de soporte permanece abierta para que una parte del licor de calentamiento vaya al desagüe.
+Verifique que la distribución del agua caliente esté presurizada y que el nivel del tanque de filtrado del lavador esté entre el 20–30%. El nivel de los tanques de filtrado debe ser bajo, dado que el licor de calentamiento elevará el nivel. Ponga en marcha el transportador de descarga del lavador DD, la bomba de lavado de placa perforada y el lavador DD para hacer girar el tambor del lavador DD. Comience bombeando filtrado (o agua caliente) desde el tanque de filtrado hacia el calentador de agua de lavado del lavador DD. Desde el calentador, el filtrado va a través del transportador de descarga o las válvulas de dilución del tubo de soporte hacia el tubo de soporte. Ponga en marcha los raspadores superiores de la torre o los dispositivos de descarga del reactor y los mezcladores de productos químicos. Ponga en marcha la bomba MC de alimentación de la etapa de blanqueo y bombee filtrado hacia la torre o el reactor y de ahí hacia el tanque de filtrado del lavador DD. 
+
+3.2.4 Puesta en marcha con agua y pulpa
+
+Lavador de gases de la planta de blanqueo
+El sistema de recolección de gases ventilados de blanqueo se suele mantener en funcionamiento durante las paradas. Sólo se detiene durante las paradas prolongadas o cuando es necesario efectuar trabajos de mantenimiento o reparación.
+Rellene el compartimento del fondo del lavador de gases de la planta de blanqueo 153-20-600 con agua de enfriamiento a través de 153-KS-0906. El lavador de gases debe llenarse al menos hasta el nivel bajo de enclavamiento (15%)
+Ponga en marcha la bomba de circulación del lavador de gases Venturi 153-26-602, si todavía no está funcionando. La válvula 153-HI-0903 se abre en el modo AUTO.
+Ponga en marcha la bomba de circulación del lavador de gases 153-26-601, si todavía no está funcionando. La válvula 153-HI-0904 se abre en el modo AUTO.
+Verifique que el nivel de líquido 153-LI-0901 permanezca en el rango ajustado.
+Cambie el temporizador de lavado del separador de goteo 153-KS-0906 al modo AUTO y ajuste los valores para el periodo de lavado y descanso.
+Cambie el controlador de caudal de sosa caústica 153-FIC-0907 al modo REMOTO y el controlador del pH 153-QIC-0902 al modo AUTO. El controlador de pH comienza a ajustar el ajuste del controlador de caudal. El objetivo de pH es de 9-10.
+Cambie el controlador de caudal de bisulfito de sodio 153-FIC-0905 al modo REMOTO y ajuste la carga química deseada para el bucle.
+
+Bombeo de pulpa blanqueada
+Asegúrese de que el nivel en 153-21-503, torre HD de pulpa blanqueada, esté por encima del 20%. Verifique si los agitadores de la torre HD están funcionando.
+Asegúrese de que 151-26-211, bomba de agua caliente, esté funcionando.
+Asegúrese de que el control de presión 153-PIC-0445 esté en el modo AUTO.
+Ponga en marcha 153-26-501, bomba MC de pulpa blanqueada.
+El comando de puesta en marcha de esta bomba cambia 153-HS-0183, agua de sellado hacia las bombas MC de blanqueo al modo AUTO y abre la válvula, si todavía no está abierta.
+La bomba MC de pulpa blanqueda se pone en marcha cuando el interruptor de agua de sellado 153-FS-0502 está por encima del límite bajo.
+El control del nivel del tubo de soporte 153-LIC-0500 y la velocidad de pulpa 153-SIC-0507 se liberan para el control.
+153-PDIC-0503, desgasificación de bomba MC, se libera cuando la salida del controlador del nivel 153-LIC-0500 ha sido > 20% durante 5 segundos.
+Dilución hacia el tubo de soporte de pulpa blanqueada 153-PIC-0513 se libera. Ponga el bucle en el modo AUTO con ajustes adecuados.
+
+Etapa P
+Asegúrese de que el nivel 153-LIC-0455 del tanque de filtrado de etapa P esté por encima del 50% y en el modo AUTO. Asegúrese también de que el control de presión 153-PIC-0445 de la línea de agua blanca esté en el modo AUTO. 
+Ponga en marcha 153-26-418, bomba de filtrado más limpio de etapa P, si no está funcionando aún. La válvula 153-HI-0457 se abre en el modo AUTO.
+Ponga en marcha 153-26-419, bomba de filtrado más sucio de etapa P, si no está funcionando aún. La válvula 153-HI-0458 se abre en el modo AUTO.
+Ponga en marcha 153-23-414, tornillo del lavador DD de la etapa P.
+153-HI-0432, dilución hacia el tornillo del lavador DD de la etapa P, se libera y se abre si está en el modo AUTO con el ajuste del modo AUTO.
+Ponga en marcha 153-26-416, bomba de lavado del tambor del lavador DD de etapa P. La válvula de cierre 153-HS-0434 se abre en el modo AUTO.
+Ponga en marcha 153-20-413, lavador DD de etapa P.
+La señal de puesta en marcha de 153-26-416, lavador DD de la etapa P, cambia 153-HI-0460, agua de sellado hacia el lavador DD de etapa P, al modo AUTO y la abre al 100%. El lavador DD de etapa P se pone en marcha cuando todos los interruptores de agua de sellado 153-FS-0461, 153-FS-0462, 153-FS-0463 y 153-FS-0464 están en la posición correcta.
+153-HS-0465, lavado giratorio hacia el lavador DD de etapa P, pasa al modo AUTO y se abre cuando 153-HI-0460 está abierta a más del 95%.
+El funcionamiento de 153-20-413, lavador DD de etapa P y su modo DCS cambia el modo de 153-HS-0417, aire de retirada de la torta del lavador DD de etapa P, al modo AUTO y la válvula se abre automáticamente. La unidad de PLC de desprendimiento con aire 153-XU-0416 inicia su secuencia de desprendimiento.
+153-PIC-0424, control de presión de entrada de la alimentación del lavador DD de etapa P, recibe la señal de salida de velocidad inicial. El lavador DD de etapa P comienza a girar con la velocidad de puesta en marcha.
+Aguas de lavado hacia el lavador DD de etapa P, 153-FIC-0430 y 153-FIC-0437, se liberan.
+
+Compruebe que el nivel de los tubos de descenso de la torre de etapa P, 153-LIC-0391 esté aproximadamente al 40-60% y que el bucle esté en el modo AUTO.
+Las válvulas de pulpa 153-HS-0401 y 153-HS-0402 hacia el lavador DD de la etapa P se abren.
+Las válvulas de pulpa 153-LIC-0391 hacia el lavador DD de etapa P se liberan; cambie el bucle al modo AUTO con un ajuste adecuado (de aproximadamente el 50%) (también el bucle 153-LIC-0392 puede utilizarse para controlar el nivel en los tubos de descenso de etapa P. Si se utiliza este nivel, cambie el nivel 153-LIC-0391 al modo MAN y el nivel 153-LIC-0392 al modo AUTO con el ajuste deseado). 
+Ponga en marcha 153-20-405, raspador superior de etapa P.
+Rellene 153-20-400, tubo de soporte de etapa P, aproximadamente al 60% abriendo 153-PIC-0378 en el modo MAN a aproximadamente el 50-100%.
+Abra la válvula de dilución 153-HI-0332 hacia el tornillo del lavador DD de etapa D1 en el modo MAN hasta aproximadamente el 50-100%.
+Ponga en marcha 153-26-401, bomba MC de alimentación de etapa P.
+El comando de puesta en marcha de esta bomba cambia 153-HS-0183, agua de sellado hacia las bombas MC de blanqueo al modo AUTO y abre la válvula, si todavía no está abierta.
+La bomba MC de alimentación de etapa P se pone en marcha cuando el interruptor de caudal de agua de sellado 153-FS-0380 está por encima del límite bajo.
+El control del nivel del tubo de soporte 153-LIC-0377 se libera para el control.
+153-HI-0381, desgasificación de la bomba MC, se libera y abre el ajuste del modo AUTO cuando la salida del controlador de nivel 153-LIC-0377 ha sido > ajuste de apertura de desgasificación durante 5 segundos.
+La bomba MC de alimentación de etapa P ahora está bombeando agua caliente hacia la torre de etapa P.
+Cambie el control de nivel del tubo de soporte, 153-LIC-0377 al modo AUTO (el ajuste está aproximadamente al 60%) y ajuste las diluciones (153-PIC-0378 y 153-HI-0332) al modo MAN según el caudal de llenado deseado (apertura aproximada del 50-100%).
+
+El calentamiento de la torre de etapa P puede ser continuado mediante la circulación de líquido desde el tanque de filtrado de etapa P hacia el tubo de soporte de alimentación de etapa P a través de 153-20-320, calentador Solaris de etapa D1, y a continuación hacia la torre de etapa P y de vuelta a través del lavador DD de etapa P hacia el tanque de filtrado de etapa P. 
+Verifique que las líneas de vapor (de baja presión) estén presurizadas y calentadas.
+Abra 153-HS-0339, vapor de baja presión hacia Solaris de etapa D1. Abra manualmente la válvula de control del vapor de baja presión 153-TIC-0338 muy despacio, aproximadamente al 10–20%. Un operador de campo debe permanecer a la escucha para detectar posibles golpeteos en las tuberías. Si se producen, reduzca el grado de apertura de la válvula de vapor. Cambie el bucle de control de vapor 153-TIC-0338 al modo AUTO con un ajuste de aproximadamente 1-2 °C más alto que la medida de temperatura actual. Monitoree la apertura de la válvula de vapor; debe estar en un buen rango de control, de aproximadamente 20…60%. Eleve el ajuste gradualmente hasta los 80 °C. Compruebe la temperatura del agua de llenado de la torre de etapa P procedente del bucle 153-TIC-0388. Esta medida se sitúa en la línea de pulpa que va hacia la torre de etapa P.
+
+Etapa D1
+Asegúrese de que el nivel 153-LIC-0355 del tanque de filtrado de etapa D1 esté por encima del 50% y en el modo AUTO. Asegúrese también de que el control de presión 153-PIC-0445 de la línea de agua blanca esté en el modo AUTO. 
+Ponga en marcha 153-26-318, bomba de filtrado más limpio de etapa D1. La válvula 153-HI-0358 se abre en el modo AUTO.
+Ponga en marcha, 153-26-319, bomba de filtrado más sucio de etapa D1. La válvula 153-HI-0359 se abre en el modo AUTO.
+Ponga en marcha 153-23-314, tornillo del lavador DD de etapa D1.
+153-HI-0332, dilución hacia el tornillo del lavador DD de etapa D1, se libera y se abre si está en el modo AUTO con el ajuste del modo AUTO.
+Ponga en marcha 153-26-316, bomba de lavado del tambor del lavador DD de la etapa D1. La válvula de cierre 153-HS-0334 se abre en el modo AUTO.
+Ponga en marcha 153-20-313, lavador DD de etapa D1.
+La señal de puesta en marcha de 153-20-313, lavador DD de etapa D1, cambia 153-HI-0360, agua de sellado hacia el lavador DD de etapa D1, al modo AUTO y la abre al 100%. El lavador DD de etapa D1 se pone en marcha cuando todos los interruptores de agua de sellado 153-FS-0361, 153-FS-0362, 153-FS-0363 y 153-FS-0364 están en la posición correcta.
+153-HS-0365, lavado giratorio hacia el lavador DD de etapa D1, pasa al modo AUTO y se abre cuando 153-HI-0360 está abierta a más del 95%.
+El funcionamiento de 153-20-313, lavador DD de etapa D1 y su modo DCS cambia el modo de 153-HS-0317, aire de retirada de la torta del lavador DD de etapa D1, al modo AUTO y la válvula se abre automáticamente. La unidad de PLC de desprendimiento con aire 153-XU-0316 inicia su secuencia de desprendimiento.
+153-PIC-0324, control de presión de entrada de la alimentación del lavador DD de etapa D1, recibe la señal de salida de velocidad inicial. El lavador DD de etapa D1 comenzará a girar con la velocidad de puesta en marcha.
+Aguas de lavado hacia el lavador DD de etapa D1, 153-FIC-0330 y 153-FIC-0337 se liberan.
+
+Compruebe que el nivel de los tubos de descenso de la torre de etapa D1, 153-LIC-0297 está aproximadamente al 40-60%. 
+Las válvulas de pulpa 153-HS-0301 y 153-HS-0302 hacia el lavador DD de la etapa D1 se abren.
+Las válvulas de pulpa 153-LIC-0297 hacia el lavador DD de etapa D1 se liberan; cambie el bucle al modo AUTO con ajuste adecuado (de aproximadamente el 50%) (también el bucle 153-LIC-0298 puede utilizarse para controlar el nivel en los tubos de descenso de etapa D1. Si se utiliza este nivel, cambie el nivel 153-LIC-0297 al modo MAN y el nivel 153-LIC-0298 al modo AUTO con el ajuste deseado). 
+Ponga en marcha 153-20-305, raspador superior de etapa D1.
+Ponga en marcha 153-20-303, mezclador de etapa D1.
+Rellene 153-20-300, tubo de soporte de etapa D1, a aproximadamente el 60% abriendo 153-PIC-0278 en el modo MAN a aproximadamente el 50-100%.
+Abra la válvula de dilución 153-HI-0232 hacia el tornillo del lavador DD de la etapa EP en el modo MAN hasta aproximadamente el 50-100%.
+Ponga en marcha 153-26-301, bomba MC de alimentación de etapa D1.
+El comando de puesta en marcha de esta bomba cambia 153-HS-0183, agua de sellado hacia las bombas MC de blanqueo al modo AUTO y abre la válvula, si todavía no está abierta.
+La bomba MC de alimentación de etapa D1 se pone en marcha cuando el interruptor de caudal de agua de sellado 153-FS-0280 está por encima del límite bajo.
+El control del nivel del tubo de soporte 153-LIC-0277 se libera para el control.
+153-HI-0281, desgasificación de la bomba MC, se libera y abre el ajuste del modo AUTO cuando la salida del controlador de nivel 153-LIC-0277 ha sido > ajuste de apertura de desgasificación durante 5 segundos.
+La válvula de cierre de mezclador de etapa D1, 153-HS-0291 se abre.
+La bomba MC de alimentación de etapa D1 ahora está bombeando agua hacia la torre de etapa D1.
+Cambie el control de nivel del tubo de soporte, 153-LIC-0277 al modo AUTO (el ajuste está al 60%) y ajuste las diluciones (153-PIC-0278 y 153-HI-0232) al modo MAN según el caudal de llenado deseado (apertura aproximada del 50-100%).
+
+El calentamiento de la torre de etapa D1 y del lavador DD de la etapa D1 puede ahora ser continuado mediante la circulación de agua de lavado hacia el lavador DD de la etapa D1 a través del calentador Solaris de etapa D1, 153-20-320. Estas aguas de lavado van desde el lavador hacia el tanque de filtrado de etapa D1 y de ahí hacia el tubo de soporte de alimentación de etapa D1, y a continuación hacia la torre de etapa D1 y de vuelta a través del lavador DD de etapa D1 hacia el tanque de filtrado de etapa D1.
+Verifique que las líneas de vapor (de baja presión) estén presurizadas y calentadas.
+Abra 153-HS-0339, vapor de baja presión hacia Solaris de etapa D1. Abra manualmente la válvula de control del vapor de baja presión 153-TIC-0338 muy despacio, aproximadamente al 10–20%. Un operador de campo debe permanecer a la escucha para detectar posibles golpeteos en las tuberías. Si se producen, reduzca el grado de apertura de la válvula de vapor. Cambie el bucle de control de vapor 153-TIC-0338 al modo AUTO con un ajuste de aproximadamente 1-2 °C más alto que la medida de temperatura actual. Monitoree la apertura de la válvula de vapor; debe estar en un buen rango de control, de aproximadamente 20…60%. Eleve el ajuste gradualmente hasta los 80 °C. Compruebe la temperatura del agua de llenado de la torre de etapa D1 procedente del bucle 153-TIC-0294. Esta medida se sitúa en la línea de pulpa que va hacia la torre de etapa D1. ¡Recuerde que la temperatura del agua caliente que va hacia la torre revestida con cerámica puede aumentarse gradualmente a un máximo de 5 °C/hora!

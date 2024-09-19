@@ -1,0 +1,89 @@
+
+Etapa EP
+Asegúrese de que el nivel 153-LIC-0255 del tanque de filtrado de etapa EP esté por encima del 50% y en el modo AUTO. 
+Ponga en marcha 153-26-218, bomba de filtrado más limpio de etapa EP. La válvula 153-HI-0257 se abre en el modo AUTO.
+
+Ponga en marcha 153-23-214, tornillo del lavador DD de la etapa EP.
+153-HI-0232, dilución hacia el tornillo del lavador DD de la etapa EP se libera y se abre si está en el modo AUTO con el ajuste del modo AUTO.
+Ponga en marcha 153-26-116, bomba de lavado del tambor del lavador DD de etapa Da y EP. La válvula de cierre 153-HS-0234 se abre en el modo AUTO.
+Ponga en marcha 153-20-213, lavador DD de la etapa EP.
+La señal de puesta en marcha de 153-20-213, lavador DD de la etapa EP, cambia 153-HI-0260, agua de sellado hacia el lavador DD de etapa EP, al modo AUTO y la abre al 100%. El lavador DD de la etapa EP se pone en marcha cuando todos los interruptores de agua de sellado 153-FS-0261, 153-FS-0262, 153-FS-0263 y 153-FS-0264 están en la posición correcta.
+153-HS-0265, lavado giratorio hacia el lavador DD de la etapa EP, pasa al modo AUTO y se abre cuando 153-HI-0260 está abierta a más del 95%.
+El funcionamiento de 153-20-213, lavador DD de la etapa EP y su modo DCS cambia el modo de 153-HS-0217, aire de retirada de la torta del lavador DD de etapa EP, al modo AUTO y la válvula se abre automáticamente. La unidad de PLC de desprendimiento con aire 153-XU-0216 inicia su secuencia de desprendimiento.
+153-PIC-0224, control de presión de entrada de la alimentación del lavador DD de etapa EP, recibe la señal de salida de velocidad inicial. El lavador DD de la etapa EP comenzará a girar con la velocidad de puesta en marcha.
+Aguas de lavado hacia el lavador DD de la etapa EP, 153-FIC-0230 y 153-FIC-0237, se liberan.
+
+Compruebe que el nivel de los tubos de descenso de la torre de etapa EP, 153-LIC-0199 esté aproximadamente al 40-60%. 
+Las válvulas de pulpa 153-HS-0201 y 153-HS-0202 hacia el lavador DD de la etapa EP se abren.
+Las válvulas de pulpa 153-LIC-0199 hacia el lavador DD de la etapa EP se liberan; cambie el bucle al modo AUTO con el ajuste adecuado (de aproximadamente el 50%) (también el bucle 153-LIC-0200 puede utilizarse para controlar el nivel en los tubos de descenso de etapa EP. Si se utiliza este nivel, cambie el nivel 153-LIC-0199 al modo MAN y el nivel 153-LIC-0200 al modo AUTO con el ajuste deseado). 
+Ponga en marcha 153-20-205, raspador superior de etapa EP.
+Rellene 153-20-200, tubo de soporte de etapa EP, a aproximadamente el 60% abriendo 153-PIC-0182 en el modo MAN a aproximadamente el 50-100%.
+Abra la válvula de dilución 153-HI-0132 hacia el tornillo del lavador DD de etapa Da en el modo MAN a aproximadamente el 50-100%.
+Ponga en marcha 153-26-201, bomba MC de alimentación de etapa EP.
+El comando de puesta en marcha de esta bomba cambia 153-HS-0183, agua de sellado hacia las bombas MC de blanqueo al modo AUTO y abre la válvula, si todavía no está abierta.
+La bomba MC de alimentación de etapa EP se pone en marcha cuando el interruptor de caudal de agua de sellado 153-FS-0186 está por encima del límite bajo.
+El control del nivel del tubo de soporte 153-LIC-0181 se libera para el control.
+153-HI-0187, desgasificación de la bomba MC, se libera y abre el ajuste del modo AUTO cuando la salida del controlador de nivel 153-LIC-0181 ha sido > ajuste de apertura de desgasificación durante 5 segundos.
+Ahora la bomba MC de alimentación de etapa EP está bombeando agua hacia la torre de etapa EP.
+Cambie el control de nivel del tubo de soporte, 153-LIC-0181 al modo AUTO (el ajuste está al 60%) y ajuste las diluciones (153-PIC-0182 y 153-HI-0132) al modo MAN según el caudal de llenado deseado (apertura aproximada del 50-100%).
+
+Ponga en marcha la bomba de filtrado más sucio de etapa EP, 153-26-219.
+Ajuste adecuadamente el control de nivel 153-LIC-0256, lo que enviará efluentes alcalinos hacia los enfriadores de efluentes alcalinos 153-28-220 y 153-28-221.
+Compruebe que las válvulas de secuencia de lavado del enfriador 1 de efluentes alcalinos, 153-HI-0270, 153-HI-0271, 153-HI-0272 y 153-HI-0273 estén en el modo AUTO (compruebe también las válvulas del enfriador 2, 153-HI-0600, 153-HI-0601, 153-HI-0602 y 153-HI-0603).
+Ajuste adecuadamente los controladores de temperatura de efluentes 153-TIC-0275 y 153-TIC-0605 (153-TIC-0604 para el enfriador 2).
+Ajuste adecuadamente el control del temporizador del enfriador de lavado 153-KS-0274 (153-KS-0606).
+Recuerde que al llenar el enfriador de efluentes alcalinos con líquido, es necesario dejar que el aire salga del equipo para evitar golpes de ariete más tarde. Deje que salga el aire a través de las válvulas de ventilación del enfriador. 
+Cuando empiece a salir agua por las aberturas de ventilación, quiere decir que los enfriadores están llenos de agua. Si no es necesario bombear agua hacia la planta de efluentes en esta etapa, detenga la bomba de filtrado más sucio 153-26-219.
+
+El calentamiento de la torre de etapa EP y del lavador DD puede ser continuado mediante la circulación de líquido desde el tanque de filtrado de etapa EP hacia el tubo de soporte de alimentación de etapa EP a través de 153-20-120, calentador Solaris de etapa Da, y a continuación hacia la torre de etapa EP y de vuelta a través del lavador DD de la etapa EP hacia el tanque de filtrado de etapa EP. 
+Verifique que las líneas de vapor (de baja presión) estén presurizadas y calentadas.
+Abra 153-HS-0139, vapor de baja presión hacia Solaris de etapa D1. Abra manualmente la válvula de control de vapor de baja presión 153-TIC-0138 muy despacio, aproximadamente al 10–20%. Un operador de campo debe permanecer a la escucha para detectar posibles golpeteos en las tuberías. Si se producen, reduzca el grado de apertura de la válvula de vapor. Cambie el bucle de control de vapor, 153-TIC-0138 al modo AUTO con un ajuste de aproximadamente 1-2 °C más alto que la medida de temperatura actual. Monitoree la apertura de la válvula de vapor; debe estar en un buen rango de control, de aproximadamente 20…60%. Eleve el ajuste gradualmente hasta los 80 °C. Compruebe la temperatura del agua de llenado de la torre de etapa EP procedente del bucle 153-TIC-0196. Esta medida se sitúa en la línea de pulpa que va hacia la torre de etapa EP. 
+
+Etapa Da
+Asegúrese de que el nivel 153-LI-0004, en la torre de almacenamiento de pulpa sin blanquear sea de al menos el 30%.
+Compruebe que la válvula de aislamiento del tubo de soporte del fondo de la torre de almacenamiento de pulpa sin blanquear, 153-GS-0011, esté abierta. Si no lo está, ábrala.
+Ponga en marcha 153-23-114, tornillo del lavador DD de etapa Da.
+153-HI-0132, dilución hacia el tornillo del lavador DD de la etapa Da, se libera y se abre si está en el modo AUTO con el ajuste del modo AUTO.
+Ponga en marcha 153-26-116, bomba de lavado del tambor del lavador DD de la etapa Da y EP, si todavía no está funcionando. La válvula de cierre 153-HS-0134 se abre en el modo AUTO.
+Ponga en marcha 153-20-113, lavador DD de etapa Da.
+La señal de puesta en marcha de 153-20-113, lavador DD de etapa Da, cambia 153-HI-0160, agua de sellado hacia el lavador DD de etapa Da, al modo AUTO y la abre al 100%. El lavador DD de la etapa Da se pone en marcha cuando todos los interruptores de agua de sellado 153-FS-0161, 153-FS-0162, 153-FS-0163 y 153-FS-0164 están en la posición correcta.
+153-HS-0165, lavado giratorio hacia el lavador DD de la etapa Da, pasa al modo AUTO y se abre cuando 153-HI-0160 está abierta a más del 95%.
+El funcionamiento de 153-20-113, lavador DD de la etapa Da y su modo DCS cambia el modo de 153-HS-0117, aire de retirada de la torta del lavador DD de etapa Da, al modo AUTO y la válvula se abre automáticamente. La unidad de PLC de desprendimiento con aire 153-XU-0116 inicia su secuencia de desprendimiento.
+153-PIC-0124, control de presión de entrada de la alimentación del lavador DD de etapa Da, recibe la señal de salida de velocidad inicial. El lavador DD de la etapa Da comienza a girar con la velocidad de puesta en marcha.
+Las aguas de lavado hacia el lavador DD de la etapa Da, 153-FIC-0130 y 153-FIC-0137, se liberan. 
+
+Compruebe que el nivel de los tubos de descenso de la torre de etapa Da, 153-LIC-0050 esté aproximadamente al 40-60%.
+Las válvulas de pulpa 153-HS-0101 y 153-HS-0102 hacia el lavador DD de etapa Da se abren.
+Las válvulas de pulpa 153-LIC-0050 hacia el lavador DD de la etapa Da se liberan; cambie el bucle al modo AUTO con el ajuste adecuado (aproximadamente del 50%) (también el bucle 153-LIC-0051 puede utilizarse para controlar el nivel en los tubos de descenso de etapa Da. Si se utiliza este nivel, cambie el nivel 153-LIC-0050 al modo MAN y el nivel 153-LIC-0051 al modo AUTO con el ajuste deseado). 
+Ponga en marcha 153-20-105, raspador superior de etapa Da.
+Ponga en marcha 153-20-102, mezclador de productos químicos de etapa Da.
+Ponga en marcha 153-26-101, bomba MC de alimentación de etapa Da.
+El comando de puesta en marcha de esta bomba cambia 153-HS-0007, agua de sellado hacia las bombas MC de alimentación de etapa Da, al modo AUTO y abre la válvula, si todavía no está abierta.
+La bomba MC de alimentación de etapa Da se pone en marcha cuando el interruptor de caudal de agua de sellado 153-FS-0009 está por encima del límite bajo.
+El control de caudal 153-FIC-0005 se libera para el control.
+153-PDIC-0010, desgasificación de bomba MC, se libera cuando la salida del controlador de caudal 153-FIC-0005 ha sido > 20% durante 5 segundos.
+La válvula de cierre del mezclador de productos químicos de etapa Da, 153-HS-0025, se abre.
+La bomba MC de alimentación de etapa Da ahora está bombeando agua hacia la torre de etapa Da.
+Cambie el control de caudal, 153-FIC-0005 al modo AUTO (el ajuste aproximado de 150-200 l/s) y ajuste las diluciones (153-QIC-0022 y 153-EIC-0006) al modo MAN según el caudal de llenado deseado (apertura aproximada del 50-100%).
+La temperatura 153-TI-0030 puede utilizarse para controlar el caudal de vapor hacia la torre de almacenamiento de pulpa sin blanquear. Recuerde que es necesario calentar el agua/la pulpa antes de efectuar esta función. Cambie 153-FIC-0060 al modo REMOTO y compruebe que los bucles 153-PIC-0067, 153-HI-0061, 153-HI-0062, 153-HI-0063, 153-HI-0064, 153-HI-0065 y 153-HI-0065 estén en el modo AUTO cuando el caudal de vapor 153-FIC-0060 empiece a controlarlos. Ahora la temperatura 153-TI-0030 comienza a añadir vapor de media presión a la torre de almacenamiento de pulpa sin blanquear, si la temperatura desciende por debajo de los 88 °C. Cuando la temperatura alcanza los 90 °C, la adición de vapor cesa. Si el nivel en la torre de almacenamiento de pulpa sin blanquear es bajo, es necesario añadir agua de sellado HP para el desobrecalentamiento al vapor de media presión. En este caso, abra la válvula 153-HI-0068.
+
+Ponga en marcha la bomba booster de agua caliente 153-26-005.
+
+Asegúrese de que el nivel 153-LIC-0155 del tanque de filtrado de etapa Da esté por encima del 50% y en el modo AUTO.
+Ponga en marcha 153-26-118, bomba de filtrado más limpio de etapa Da.
+Ajuste adecuadamente el control de nivel 153-LIC-0156, que mueve el efluente alcalino hacia los enfriadores de efluentes ácidos 153-28-122 y 153-28-124.
+Compruebe que las válvulas de secuencia de lavado del enfriador 1 de efluentes ácidos, 153-HI-0070, 153-HI-0071, 153-HI-0072 y 153-HI-0073 estén en el modo AUTO (compruebe también las válvulas de lavado del enfriador 2, 153-HI-0034, 153-HI-0035, 153-HI-0036 y 153-HI-0037).
+Ajuste adecuadamente el control de temperatura de efluentes 153-TIC-0075 y 153-TIC-0098 (153-TIC-0039).
+Ajuste adecuadamente el control del temporizador del enfriador de lavado 153-KS-0074 (153-KS-0038).
+Recuerde que al llenar el enfriador de efluentes ácidos con líquido, es necesario dejar que el aire salga del equipo para evitar golpes de ariete más tarde. Deje que salga el aire a través de las válvulas de ventilación del enfriador. 
+Cuando empiece a salir agua por las aberturas de ventilación, quiere decir que los enfriadores están llenos de agua. 
+
+Cambie 153-FIC-0087, efluente ácido hacia el filtro de fibra, al modo AUTO, con un ajuste de aproximadamente 40-60 l/s.
+Cambie el bucle 153-FIC-0082, rechazos del filtro de fibra al modo REMOTO, y ajuste la proporción de rechazo al 15%, por ejemplo. 
+Cambie la presión de alimentación del filtro de fibra 153-PIC-0081 al modo AUTO, con un ajuste de aproximadamente 5-6 bar.
+Ponga en marcha el filtro de fibra 153-20-121.
+Ponga en marcha 153-26-119, bomba de filtrado más sucio de etapa Da.
+153-FIC-0087, 153-PIC-0081 y 153-FIC-0082 se liberan para el control.
+Ahora los enfriadores de efluentes ácidos y el filtro de fibra están llenos de agua y en operación. Si no es necesario bombear agua hacia la planta de efluentes en esta etapa, detenga la bomba de filtrado más limpio 153-26-118, la bomba de filtrado más sucio 153-26-119 y el filtro de fibra 153-20-121.
+
+La planta de blanqueo está ahora funcionando con agua y a la espera de la puesta en marcha de la alimentación de pulpa.
