@@ -1,0 +1,47 @@
+
+4. DESCRIPCIÓN DEL TRANSPORTE DE MADERA
+4.1 Planificación 
+La operativa anual de transporte de madera se planifica en conjunto con los responsables de las respectivas áreas de Caminería, Carga, Cadena de Abastecimiento y Transporte Este plan establece los recursos (flota de transporte) necesarios por mes, en base a la previsión de madera en acopios y en montes. 
+La planificación de corto plazo incluye un plan semanal y un plan diario de transporte de madera, siendo ambos responsabilidad de los participantes anteriormente mencionados.
+
+4.2 Habilitación del conductor y vehículo
+Previo al inicio de la actividad, Central de Transporte valida el ingreso de cada conductor en el sistema SGF, creando un usuario respectivo, la matrícula y configuración del vehículo para su habilitación. Esta habilitación únicamente se realiza cuando la empresa gestora de documentación confirma la aceptación de los documentos legales laborales y registros del transportista (ver P_RH_03 Contratación y Evaluación de Contratistas Forestales). 
+
+4.3 Carga 
+La tarea consiste en colocar sobre camión la madera apilada en zonas de cosecha o en playas intermedias de acopio, para su posterior transporte a destino. La misma es realizada mediante maquinaria específica de carga o por forwarder en el caso de que la extracción y la carga se realicen de manera simultánea. Las orientaciones, responsabilidades, medidas de seguridad y protección ambiental se detallan en el instructivo I_Cos_06 Carga de Madera.
+
+4.4 Acondicionamiento de la carga 
+El primer responsable por verificar el acondicionamiento de la carga de madera en el camión es el propio conductor y el personal de supervisión del transportista, sin perjuicio de esto también pueden hacerlo el Encargado de Operaciones de Transporte y/o Técnico SySO en sus inspecciones de campo. 
+Se debe transportar en forma longitudinal sin sobrepasar una altura de 4,30m de altura definida por los puntales metálicos laterales. A su vez la carga no debe sobrepasar los 45.000 kg brutos. La unidad de operaciones para el transporte terrestre (camión y remolque, tractor y semirremolque / excepto bi-tren) debe estar acondicionada para tal fin. Cuando se circule con unidades bi-tren la altura máxima y peso brutos admitidos son 4,30 metros y 57.000 kg brutos respectivamente.
+Los vehículos que transporten maderas rollizas deben disponer de un sistema de contención lateral mediante uno de los siguientes dispositivos:
+Paneles o estructura auxiliar indeformable, con la resistencia adecuada para soportar la carga en caso de desplazamiento lateral.    
+Puntales (estaqueros) laterales metálicos perpendiculares al plano de la plataforma del vehículo. Los puntales deben estar perfectamente anclados por su extremo inferior a la plataforma del vehículo.
+Cuando los productos forestales se transporten de manera longitudinal, la carga debe ajustarse a los siguientes requisitos:
+Cantidad de Puntales según largo de piezas
+
+Largo de troza: Trozas o piezas de hasta 8 metros
+Cantidad de puntales:
+Mínimo 2 puntales de cada lado para cada pieza o atado de piezas, separados de modo que los extremos de las mismas sobresalgan entre un 10% a un 25% de su largo
+Largo de troza: Trozas o piezas mayores a 8 metros
+Cantidad de puntales:
+4 puntales, distribuidos de acuerdo a la longitud de las piezas, de modo que los extremos de las mismas sobresalgan de los puntales delanteros y traseros, entre un 15% a un 20% de su largo. Los 2 puntales centrales deben instalarse de modo que las distancias entre todos sean aproximadamente iguales
+
+Sujeción de carga a la carrocería
+
+Largo de troza: Trozas o piezas de 2,40 metros
+Sujeción (*): 
+1 cinta de poliéster con capacidad mínima de rotura de 3.000 kgf, tensionadas por un sistema ajustable neumático o mecánico por paquete
+Largo de troza: Trozas o piezas mayores a 2,40 metros
+Sujeción (*):
+2 cintas de poliéster con capacidad mínima de rotura de 3.000 kgf, tensionadas por un sistema ajustable neumático o mecánico, adecuadamente distribuidos por paquete.
+(*) Otros tipos de sistemas de sujeción: Son admitidas siempre que cuenten con la misma eficacia a los anteriores y sean aprobadas / homologadas para la Dirección Nacional de Transporte, y previamente consultas con MdP.
+
+4.5 Tiempo de conducción
+El transportista debe dar cumplimiento a la normativa en cuanto a jornadas de trabajo, descansos intermedios, etc. MdP podrá exigir estándares de seguridad más elevados, a los previstos por la normativa al respecto, alineados a las mejores prácticas nacionales e internacionales, los cuales serán compartidos con el transportista en las reuniones periódicas que a estos efectos se encuentran ya previstas.
+
+4.6 Generación de la Orden de Transporte
+El flujo de actividades desde la generación de la Orden de Transporte (OT) hasta su cierre se presenta en el diagrama de flujo del Anexo 1.
+Los errores registrados en las OT, pasan por una post edición en Central de Transporte, donde se corrigen las anomalías (ej. error de bloque, error en ingreso de balanza, eliminación y creación de nueva OT).
+
+4.7 Remitos
+Al momento de generar el viaje se generará digitalmente un remito electrónico con los datos del viaje, el cuál se completa luego de realizada la carga, con el fin de garantizar el origen de la madera, ya sea madera certificada (FSC 100%,  FSC Controlled Wood, 100% PEFC o PEFC Fuentes Controladas). La información de los mismos está disponible digitalmente, a través de la empresa en caso de que sea requerido en algún control en ruta.

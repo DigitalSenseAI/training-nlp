@@ -1,0 +1,39 @@
+
+P_LOGT_01: TRANSPORTE DE MADERA 
+VERSIÓN: 02
+27/10/2023
+
+ÍNDICE
+1.	OBJETIVO
+2.	ALCANCE
+3.	LINEAMIENTOS GENERALES
+3.1	Requerimientos documentales	
+3.2	Empresa Transportista
+3.3	Requerimientos contractuales
+4.	DESCRIPCIÓN DEL TRANSPORTE DE MADERA
+4.1	Planificación
+4.2	Habilitación del conductor y vehículo
+4.3	Carga
+4.4	Acondicionamiento de la carga
+4.5	Tiempo de conducción
+4.6	Generación de la Orden de Transporte
+4.7	Remitos
+5.	SEGUIMIENTO Y CONTROL
+5.1	Operaciones
+5.2	Incumplimientos
+5.3	Control de alcohol y drogas
+5.4	Velocidad
+5.5	Criterios de detención inmediata
+6.	RÉGIMEN DE SANCIONES
+7.	EMERGENCIAS
+8.	PREVENCIÓN DE RIESGOS LABORALES E IMPACTOS AMBIENTALES
+8.1	Análisis de riesgos y medidas preventivas
+8.2	Impactos ambientales potenciales y sus medidas preventivas
+9.	RESPONSABILIDADES
+10.	REGISTROS
+11.	MODIFICACIONES A LA EDICIÓN ANTERIOR
+
+RESPONSABLES DE EDICIÓN
+Elaboración: Sebastiano Dotti
+Revisión: Gonzalo Mattos- Gonzalo Ruiz
+Validación: Magdalena Pelufo

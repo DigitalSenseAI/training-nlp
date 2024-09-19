@@ -1,0 +1,96 @@
+
+5. SEGUIMIENTO Y CONTROL
+5.1 Operaciones
+El control de las operaciones es responsabilidad del contratista. MdP realiza un control adicional por parte del Encargado y/o Supervisor de Transporte, con apoyo del Técnico SySO de MdP y por servicios contratados para tal fin, ya sea en la ruta o en los puntos de origen y destino de la carga. La información recabada se ingresa en el registro respectivo (ej. Datacenter), para procesamiento de datos y generación de estadísticas, indicadores de desempeño e historiales de cumplimiento.
+
+5.2 Incumplimientos
+Con el fin de trabajar en la gestión de la seguridad del transporte, se definen las siguientes penalizaciones por incumplimientos del transportista en materia de seguridad:
+Por cada omisión de reportar/informar un Accidente con Tiempo Perdido (ACTP) a la Central de Transporte de MdP en el plazo establecido en el Procedimiento de Investigación de Accidentes de MdP, el Transportista será pasible de una multa de hasta USD 3.000 por omisión[RM1] . En caso de duda de si el incidente es o no con Tiempo Perdido, se deberá optar por un criterio conservador y reportarlo.
+En caso de reiteración de Incidentes de Alto Potencial (IAP) que le sean imputables a un hacero no hacer del Transportista, éste será pasible de una multa de hasta USD 3.000 [RM2] cuando el Indicador IAP por millón de Kilómetros(Índice IAP = (# IAP trimestre/kilómetros recorridos) x 1.000.000) sea superior a un valor de 0,65 en un trimestre calendario. Todos los vuelcos totales o parciales en rutas nacionales y/o departamentales serán considerados IAP.
+La acumulación de ACTP y/o IAP en un año calendario y durante la vigencia del Contrato habilitará a MdP para rescindir el Contrato.
+
+Penalización Seguridad por Comportamientos del Conductor con consecuencias el Transportista (matrícula/cupo):
+Incumplimiento de una de las 10 Reglas que salvan vidas de MdP (se adjuntan en Anexo IX)
+Cada vez que algún conductor sea detectado haciendo uso de elementos de distracción, por ej. su teléfono celular o mate, durante la conducción del vehículo.
+El no uso de EPP o cinturón de seguridad, por parte de cualquier empleado del Transportista o vinculado al Transportista, prestando servicio para MdP.
+En caso de que algún conductor sea detectado fumando dentro de las Instalaciones de MdP (fuera de las zonas específicamente habilitadas), incluidos los puntos de Origen (cargadero y montes).
+En caso de que un camión sea detectado viajando sin la carga debidamente acondicionada y ajustada.
+En caso que un conductor realice labores sobre la carrocería del camión para realizar limpieza, o por estar arriba de la carga.
+En caso que se constate la realización por parte del conductor de maniobras riesgosas para terceros.
+
+Ante la detecciónde alguno de estos incumplimientos, los cuales se contabilizarán por matrícula/cupo, MdP podrá no asignar viajes por un período de tiempo para esa matrícula/cupo o bien determinar la aplicación al Transportista de las siguientes multas.
+La definición de detención o multa será de acuerdo a lo siguiente, a considerarse por cada mes de vigencia del Contrato. Esto es, cumplido el plazo de un mes desde verificada la multa, se volverá a contar desde cero:
+1era vez: detención del cupo 48 horas o USD 200 de multa
+2da vez:  detención del cupo72 horas o USD 300 de multa
+3era vez:   detención del cupo 96 horas o USD 400 de multa
+4ta vez: se analizarán sanciones e incluso se podrá suspender el permiso de acceso de la matrícula a las instalaciones de MdP o rescindir total o parcialmente (cuposdel s Contrato).
+
+Los desvíos a la operativa normal se deben registrar y gestionar en el SIG por parte del contratista, y con el seguimiento del supervisor de MdP responsable del área. 
+
+5.3 Control de alcohol y drogas
+Se podrán realizar controles en forma aleatoria a personal propio o contratistas/subcontratistas/proveedores, con métodos probados y equipos o reactivos adecuadamente calibrados y autorizados por los organismos nacionales de regulación (IRCCA/LATU) según lo establecido en el documento P_SySOG_01 Control de Alcohol y Drogas. 
+En forma paralela cada contratista/subcontratista/proveedor deberá realizar sus propias verificaciones con métodos aprobados, difundidos y equipos adecuadamente calibrados/mantenidos. 
+
+5.4 Velocidad
+En forma aleatoria se realizan controles de velocidad en ruta, adoptando el siguiente criterio para la detección de incumplimientos:
+
+Velocidad max.: 80 km/h
+Normas nacionales: 
+En rutas nacionales
+Velocidad max.: 60 km/h
+Normas nacionales: 
+En proximidades de advertencias de peligro (sin indicación de vel/máx.)
+Velocidad max.: 40 km/h
+Normas nacionales:
+Paso a nivel de ferrocarril con barreras
+Intersección u otro lugar sin buena visibilidad
+Cruce peatonal señalizado
+Curvas señalizadas con ángulo recto
+Ómnibus detenido para ascenso y descenso de pasajeros
+Velocidad max.: 20 km/h
+Normas nacionales:
+Zonas urbanas, zonas con aglomeración de personas (en especial entradas y salidas de alumnos a las escuelas).                         
+Donde existan señales “gente en obra”, en cercanía de tropas de ganado, proximidades de paso a nivel sin barreras.
+Velocidad máx.: 30 km/h
+Requisitos MdP:
+Caminos internos de predios/caminos vecinales
+Velocidad máx.: 15 km/h
+Requisitos MdP:
+Playas de acopios
+Velocidad máx.: 5 km/h
+Requisitos MdP: 
+En zona de balanza
+
+El Asistente de transporte es responsable por recibir y canalizar las quejas, sugerencias y mejoras a implementarse en el sistema de controles de velocidad.
+
+5.5 Criterios de detención inmediata
+Ante la observación de los siguientes criterios, la empresa de transporte debe garantizar actuación previa a que la unidad de transporte sea habilitada a seguir viaje:
+
+Observación: Neumáticos de dirección reconstruidos 
+Acción mínima inmediata: Detención inmediata. No puede viajar cargado
+Observación: Dos o más neumáticos que condicionen la seguridad
+Acción mínima inmediata: Se debe realizar cambio de neumáticos comprometidos antes de próximo viaje. Ante situación crítica, si ya está cargado, debe descargar para solucionar no pudiendo realizar el viaje.  
+Observación: Luces delanteras de tractor y/o traseras del acoplado no funcionan.
+Acción mínima inmediata: Prohibido circular en horario nocturno. En horario diurno reparar antes de que oscurezca, o antes de próximo viaje. No está permitido circular con balizas, solo hasta encontrar lugar para detenerse.
+Observación: Luces de freno no funcionan.
+Acción mínima inmediata: Detención inmediata. No puede viajar cargado hasta reparar
+Observación: Fisuras y/o deformaciones en estructuras: Ejes, suspensión, cunas y/o estaqueros que comprometan la estabilidad de la carga, ralas, lanza, dirección.
+Acción mínima inmediata: Detención inmediata. No puede viajar cargado hasta reparar
+Observación: Detección de fallas o roturas en al menos un freno 
+Acción mínima inmediata: Detención inmediata. No puede viajar hasta reparar. Dependiendo de la falla se permitirá viajar vacío a taller de reparación
+Observación: Parabrisas roto que comprometa la visibilidad del conductor 
+Acción mínima inmediata: Detención inmediata
+Observación: Falta de espejos retrovisores. Siempre debe contar con al menos uno de cada lado
+Acción mínima inmediata: Reparar para poder continuar con el viaje
+Observación: Carga mal estibada que compromete directamente la seguridad de terceros
+Acción mínima inmediata: Detención inmediata y corrección
+Observación: Sujeción deficiente de la carga
+Acción mínima inmediata: Detención inmediata y corrección
+Observación: Cinturones de seguridad con desperfectos que impiden su uso 
+Acción mínima inmediata: Detención inmediata hasta reparar. Siempre debe contar con los cinturones suficientes para el personal que viaja.
+Observación: Conductores viajan con terceros, sin autorización
+Acción mínima inmediata: Comunicación a Central de Transporte y solicitud de detención en lugar seguro y descenso de terceros.
+Observación: Conductores con documentación incompleta según requisitos de MdP
+Acción mínima inmediata: Detención inmediata
+Observación: Elementos mal ajustados o sin sujeción (Auxiliar, paragolpes, etc)
+Acción mínima inmediata: Detención inmediata y corrección

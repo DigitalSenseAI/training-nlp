@@ -1,0 +1,109 @@
+
+3. LINEAMIENTOS GENERALES
+El área de Transporte planifica su actividad según los lineamientos establecidos en el P_Plan_01: Planeamiento Forestal:
+Plan Estratégico de Transporte (PE) a largo plazo
+Plan Táctico de Transporte (5 años)
+Plan Operativo Mensual de Transporte (POA)
+
+3.1 Requerimientos documentales
+Para poder realizar el servicio de transporte de madera, las empresas contratadas deben presentar documentación a MdP a fin de realizar los controles de la documentación legal laboral y registros del transportista, y la evaluación respectiva del mismo, asegurando el cumplimiento de las normativas legales y contractuales que le competen (ver también P_RH_03 Contratación y Evaluación de Contratistas Forestales), de acuerdo con los siguientes criterios:
+
+Transportista: Empresa
+Documentos:
+- Certificado de empresa profesional de carga
+- BPS: Certificados, recibos y consulta de actividad por empresa al día
+- Certificado de DGI vigente
+- Seguro y certificados al día (BSE o Seguro alternativo, para accidentes laborales y contra Terceros)
+- Planilla de MTSS
+Transportista: Personal
+Documentos:
+- Alta de cada funcionario emitida por BPS
+- Cédula de identidad vigente
+- Control de salud vigente
+- Libreta de conducir de acuerdo al tipo de vehículo y carga a transportar
+- Baja o modificación de actividad de BPS en caso de producirse las mismas
+- Alta y/o baja de cada funcionario al BSE
+- Listado firmado y sellado por BSE con la nómina de personal asegurado por la empresa (la misma deberá actualizarse con cada alta y/o baja que se produzca de personal)
+Transportista: Vehículo
+Documentos: 
+- Inscripción en el registro de la Dirección Nacional de Transporte (MTOP)
+- Inspección Técnica Vehicular (CAT)
+- Permiso Nacional de Circulación
+- Seguro de Responsabilidad Civil
+- Libreta de propiedad
+- Otras habilitaciones específicas del vehículo o carga
+
+Adicional a lo mencionado anteriormente, todos los conductores deben contar con: 
+Examen Psicofísico vigente emitido por entidad autorizada por MdP (F_SyS_15 Instituciones habilitadas).
+Inducción teórica y práctica en seguridad por parte del contratista. Curso aprobado de Manejo de Pesados  BTW CEPA).
+Para unidades de tipo bitren y tritren, deberá contar con una experiencia comprobada mínima de 5 años en conducción de vehículos pesados y contar con un certificado de capacitación expedido por instituciones habilitadas por el MTOP. 
+
+Sin perjuicio de los antes mencionado, aplican los lineamientos del procedimiento P_RH_03 Contratación y Evaluación de Contratistas Forestales.
+
+3.2 Empresa Transportista
+Toda empresa transportista que trabaje para MdP debe contar con:
+Plan de Seguridad, con la finalidad de planificar y definir los requisitos a cumplir, responsabilidades, funciones y actividades de manera tal de:
+Asegurar el cumplimiento de la normativa vigente, del contrato con MdP, los estándares de MdP y sus propios estándares.
+Identificar y evaluar todos los riesgos asociados a cada puesto y tareas que estos realizan, tomando medidas de prevención y protección eficaces, previniendo lesiones y deterioro de la Salud de los trabajadores relacionados con sus labores.
+Mejorar de forma continua el desempeño de la SST.
+Lograr alcanzar los objetivos establecidos de la SST
+Un Plan de Salud Ocupacional y Vigilancia Médica (PSO), alineado con el Plan de Seguridad, con el objetivo de gestionar todos los aspectos relacionados con la salud de sus trabajadores. El mismo deberá incluir las líneas de acción para realizar la valoración de los conductores con el fin de identificar la presencia de factores de riesgo de la salud.
+Un Programa SST anual donde estén claramente definidas las actividades a realizar (controles, inspecciones, formación, etc.), responsables y frecuencia de las mismas. 
+Plan de Formación: impartir capacitación continua a los choferes en temas vinculados a Seguridad, Seguridad Vial y Salud Ocupacional.
+Contar con un servicio de SST según establece la normativa. Adicional a esto debe contar con un Monitor de Seguridad con formación específica para el desarrollo de la tarea. Este equipo de trabajo tiene la responsabilidad de:
+Impartir capacitación
+Realizar seguimiento de los programas SST, objetivos y comunicar los mismos a la dirección de la empresa
+Investigar todos los incidentes que ocurran
+Realizar controles operacionales a campo de las unidades, choferes y condiciones de trabajo.
+Gestionar los eventos generados tanto en la interna como por MdP y/o CEPA
+Realizar seguimiento de eventos de fatiga, distracciones, entre otros, detectados por sistema Guardian.
+
+Todos estos documentos deberán estar alineados a la Política de Seguridad y Salud Ocupacional de Montes del Plata y procedimientos del sistema.
+
+3.3 Requerimientos contractuales
+A continuación, se detallan los requerimientos contractuales para las unidades de transporte y conductores:
+
+Aspecto: Vehículos
+Requisito:
+Marcas admitidas: Scania, Volvo, Mercedes Benz, MAN o IVECO. 
+Potencia: 410 HP como mínimo para 48TON y 430 HP para camiones bitren
+Caja de transmisión automática o automatizada.
+Sistema de frenos ABS y EBS.
+Sistema de suspensión neumática 
+Sistema de pesaje por ejes.
+Sistema de monitoreo de flota, conectados al centro de recepción de información de MdP (los sistemas son seleccionados por MdP).
+Contar con convenio de revisión (“service”) con el fabricante, importador o representante de la marca del vehículo durante la vigencia de la garantía de fábrica.
+Radio VHF para comunicación en con otras áreas operativas
+GPS para monitoreo y seguimiento de las unidades
+Sistema GUARDIAN en cabina 
+Se prohíbe viajar con desperfectos en la carrocería y/o en la mecánica del vehículo que impliquen un riesgo para la circulación
+Se prohíbe el uso de cubiertas recauchutadas en el tren delantero.
+Banda reflectiva en el extremo trasero y lateral del vehículo, según Decreto 438-022
+Chivo delantero y trasero fijos.
+2 Balizas en triángulo reflectivas o conos.
+Protección de partes móviles o partes calientes que sean accesibles.
+Extintor de polvo ABC de 3,5kg o 4kg respectivamente (mínimo). 
+Botiquín portátil de 1os auxilios completo (ver F_Sys_03 Artículos Botiquín de Primeros Auxilios).
+Orden y limpieza de la cabina. 
+Aspecto: Carga
+Requisito:
+Sistema de sujeción de cargas según Decreto 156/009 
+La sujeción de la madera debe realizarse siempre con cintas de poliéster con una capacidad mínima de rotura de 3.000 kgf, tensionadas por un sistema de sujeción manual, semiautomático o automático. o mecánico,  
+Se prohíbe el uso de cuerdas, lingas o cadenas para la sujeción de la carga
+Se prohíbe el uso de tornos con barretas 
+Contar con 2 cintas y 2 catracas manuales extra para los casos de emergencia donde se necesite sujeción adicional. 
+La carga del vehículo no puede pasar los límites de peso y dimensiones máximas (largo y altura).
+Aspecto: Conductores
+Requisito:
+Respetar los límites de velocidad.
+Prohibido llevar acompañantes ajenos a la operativa.
+Prohibido tomar mate durante la conducción.
+Prohibido conducir los vehículos en modalidad “tren” junto con otros vehículos (vehículos circulando uno detrás del otro), debiendo respetar siempre la distancia de 100 m entre vehículos (Decreto N° 156/009). 
+Debe permanecer fuera de la cabina en zonas de descarga respetando las distancias de seguridad (25 m) 
+No se permite deambular a pie en instalaciones de MdP sin autorización.
+Los dispositivos electrónicos autorizados durante la conducción son:
+GPS
+Celular solo en caso de emergencia y en modo manos libres
+El teléfono celular debe estar en funcionamiento para ser localizado durante la prestación del servicio. Está prohibido utilizar el teléfono mientras se conduce, salvo caso de emergencias.
+No autorizados expresamente: dispositivos de entretenimiento ( Tablet o similares).
+No usar el vehículo para otra actividad a la prestación de transporte a MdP, salvo previa autorización.

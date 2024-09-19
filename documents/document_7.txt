@@ -1,0 +1,4 @@
+
+7. EMERGENCIAS 
+Ante la ocurrencia de emergencias se debe seguir la línea de comunicación presentada en el procedimiento P_SIG_03 Respuesta ante Emergencias y los pasos detallados en el instructivo I_SyS_12 Respuesta Emergencias – Accidentes Transporte.
+En caso la emergencia sea de entidad, la misma es gestionada según lo dispuesto en el procedimiento P_SIG_05 Gestión de Crisis MdP.

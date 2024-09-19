@@ -1,0 +1,14 @@
+
+10. REGISTROS
+Identificación: F_SIG_02: Tratamiento de Evento
+Responsables: Jefe Transporte
+Soporte: Digital
+Archivo: TLM
+Plazo: 5 años
+Destino Final: Descarte
+Identificación: F_SIG_02: Tratamiento de Evento
+Responsables: Jefe Transporte
+Soporte: Digital
+Archivo: SIG
+Plazo: Permanente
+Destino Final: --

@@ -1,0 +1,141 @@
+
+8. PREVENCIÓN DE RIESGOS LABORALES E IMPACTOS AMBIENTALES
+Los riesgos inherentes del transporte y las medidas preventivas para disminuir su probabilidad de ocurrencia se describen en la Matriz de Riesgos de Transporte.
+
+8.1 Análisis de riesgos y medidas preventivas 
+
+Riesgos: Accidentes de tránsito (Atropellos, choques, colisión entre vehículos, vuelcos, etc)
+Medidas preventivas: 
+Respetar límites de velocidad y/o conducir a velocidad adecuada a las condiciones del entorno.
+Mantener distancia de seguridad entre vehículos (100mts entre camiones forestales)
+Uso obligatorio de cinturón de seguridad
+Respetar la señalización vial 
+Se prohíbe conducir tomando mate
+Se prohíbe conducir haciendo uso de celular, o elementos tecnológicos de similares características que impliquen una distracción en la conducción. 
+Mantener las unidades en condiciones óptimas de circulación/Check list
+Correcta sujeción de la carga
+Todas las unidades deberán contar con GPS
+Sistema Guardian en correcto funcionamiento.
+Riesgos: Caídas al mismo y distinto nivel
+Medidas preventivas: 
+Se prohíbe el ascenso a los acoplados para realizar la limpieza de los mismos luego de la descarga
+Mantener zonas de circulación limpias y en condiciones
+Circular con precaución en zona de terreno con desniveles, o en presencia de gran cantidad de residuos post cosecha.
+No está permitido subir encima de la carga en ningún momento.
+Usar los 3 puntos de apoyo al subir/bajar del camión.
+Riesgos: Golpes/Atrapamiento
+Medidas preventivas: 
+En tareas de sujeción o desatado de la carga la persona deberá colocarse fuera de la línea de movimiento de los sistemas de sujeción.
+Prohibido el uso de tornos que utilicen barreta para el ajuste.
+Uso de EPP adecuado para la actividad.
+Distancia de seguridad a otros equipos en operación (Carga, Acopio, etc.)
+
+8.2 Impactos ambientales potenciales y sus medidas preventivas
+Nota: Niveles de impacto según F_SIG_01 Evaluación de Impactos Potenciales: C = Crítico  /  M = Moderado
+
+Actividad: Transporte
+ASPECTO: Derrame de productos 
+IMPACTO POTENCIAL: Alteración de la salud o dinámica poblacional de especies de fauna y flora (terrestre y/o acuática)
+Nivel: M
+Medida Preventiva: 
+ * Disponer de elementos de contención (bandejas) y material absorbente
+ * Manipulación y Carga alejada de cursos de agua (100m)
+ * Evitar pérdidas - adecuado mantenimiento 
+ * Gestión de productos peligrosos (verP_Ftal_05 Requisitos Generales en Predios Forestales )
+Actividad: Transporte
+ASPECTO: Derrame de productos 
+IMPACTO POTENCIAL: Contaminación del agua (superficial y subterránea)
+Nivel: M
+Medida Preventiva: 
+ * Disponer de elementos de contención (bandejas) y material absorbente
+ * Manipulación y Carga alejada de cursos de agua (100m)
+ * Evitar pérdidas - adecuado mantenimiento 
+ * Gestión de productos peligrosos (verP_Ftal_05 Requisitos Generales en Predios Forestales )
+Actividad: Transporte
+ASPECTO: Derrame de productos 
+IMPACTO POTENCIAL: Contaminación del suelo
+Nivel: M
+Medida Preventiva: 
+ * Disponer de elementos de contención (bandejas) y material absorbente
+ * Manipulación y Carga alejada de cursos de agua (100m)
+ * Evitar pérdidas - adecuado mantenimiento 
+ * Gestión de productos peligrosos (verP_Ftal_05 Requisitos Generales en Predios Forestales )
+Actividad: Transporte
+ASPECTO: Generación de residuos
+IMPACTO POTENCIAL: Alteración de la disponibilidad de recursos naturales no renovable
+Nivel: M
+Medida Preventiva: 
+ * Disponer de recipientes para gestión de residuos
+ * Gestión según P_Ftal_05 Requisitos Generales en Predios Forestales 
+Actividad: Transporte
+ASPECTO: Generación de residuos
+IMPACTO POTENCIAL: Alteración de la disponibilidad de un recurso natural renovable
+Nivel: M
+Medida Preventiva: 
+ * Disponer de recipientes para gestión de residuos
+ * Gestión según P_Ftal_05 Requisitos Generales en Predios Forestales 
+Actividad: Transporte
+ASPECTO: Generación de residuos
+IMPACTO POTENCIAL: Alteración de la salud o dinámica poblacional de especies de fauna y flora (terrestre y/o acuática)
+Nivel: M
+Medida Preventiva: 
+ * Disponer de recipientes para gestión de residuos
+ * Gestión según P_Ftal_05 Requisitos Generales en Predios Forestales 
+ Actividad: Transporte
+ASPECTO: Generación de residuos
+IMPACTO POTENCIAL: Alteración de la salud, seguridad y bienestar de los personas indirectamente involucradas
+Nivel: M
+Medida Preventiva: 
+ * Disponer de recipientes para gestión de residuos
+ * Gestión según P_Ftal_05 Requisitos Generales en Predios Forestales 
+Actividad: Transporte
+ASPECTO: Generación de residuos
+IMPACTO POTENCIAL: Alteración del valor o calidad estética del paisaje
+Nivel: M
+Medida Preventiva: 
+ * Disponer de recipientes para gestión de residuos
+ * Gestión según P_Ftal_05 Requisitos Generales en Predios Forestales 
+Actividad: Transporte
+ASPECTO: Generación de residuos
+IMPACTO POTENCIAL: Contaminación del agua (superficial y subterránea)
+Nivel: M
+Medida Preventiva: 
+ * Disponer de recipientes para gestión de residuos
+ * Gestión según P_Ftal_05 Requisitos Generales en Predios Forestales 
+Actividad: Transporte
+ASPECTO: Generación de residuos
+IMPACTO POTENCIAL: Contaminación del suelo
+Nivel: M
+Medida Preventiva: 
+ * Disponer de recipientes para gestión de residuos
+ * Gestión según P_Ftal_05 Requisitos Generales en Predios Forestales 
+Actividad: Transporte
+ASPECTO: Uso de vehículos 
+IMPACTO POTENCIAL: Alteración de infraestructura
+Nivel: M
+Medida Preventiva: 
+ * Mantenimiento adecuado de vehículos 
+Actividad: Transporte
+ASPECTO: Uso de vehículos 
+IMPACTO POTENCIAL: Alteración de la disponibilidad de recursos naturales no renovable
+Nivel: M
+Medida Preventiva: 
+ * Mantenimiento adecuado de vehículos 
+Actividad: Transporte
+ASPECTO: Uso de vehículos 
+IMPACTO POTENCIAL: Contaminación del agua (superficial y subterránea)
+Nivel: M
+Medida Preventiva: 
+ * Mantenimiento adecuado de vehículos 
+Actividad: Transporte
+ASPECTO: Uso de vehículos 
+IMPACTO POTENCIAL: Contaminación del aire
+Nivel: M
+Medida Preventiva: 
+ * Mantenimiento adecuado de vehículos 
+Actividad: Transporte
+ASPECTO: Uso de vehículos 
+IMPACTO POTENCIAL: Efecto invernadero
+Nivel: M
+Medida Preventiva: 
+ * Mantenimiento adecuado de vehículos 
